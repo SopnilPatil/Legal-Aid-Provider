@@ -1,0 +1,353 @@
+[
+  {
+    "id": "BNSS-CHAPTER-I",
+    "law_code": "BNSS",
+    "chapter_number": "I",
+    "title": "PRELIMINARY",
+    "start_section": "1",
+    "end_section": "5",
+    "section_count": 5
+  },
+  {
+    "id": "BNSS-CHAPTER-II",
+    "law_code": "BNSS",
+    "chapter_number": "II",
+    "title": "CONSTITUTION OF CRIMINAL COURTS AND OFFICES",
+    "start_section": "6",
+    "end_section": "20",
+    "section_count": 15
+  },
+  {
+    "id": "BNSS-CHAPTER-III",
+    "law_code": "BNSS",
+    "chapter_number": "III",
+    "title": "POWER OF COURTS",
+    "start_section": "21",
+    "end_section": "29",
+    "section_count": 9
+  },
+  {
+    "id": "BNSS-CHAPTER-IV",
+    "law_code": "BNSS",
+    "chapter_number": "IV",
+    "title": "POWERS OF SUPERIOR OFFICERS OF POLICE AND AID TO THE MAGISTRATES AND THE POLICE",
+    "start_section": "30",
+    "end_section": "34",
+    "section_count": 5
+  },
+  {
+    "id": "BNSS-CHAPTER-V",
+    "law_code": "BNSS",
+    "chapter_number": "V",
+    "title": "ARREST OF PERSONS",
+    "start_section": "35",
+    "end_section": "62",
+    "section_count": 28
+  },
+  {
+    "id": "BNSS-CHAPTER-VI",
+    "law_code": "BNSS",
+    "chapter_number": "VI",
+    "title": "PROCESSES TO COMPEL APPEARANCE",
+    "start_section": "63",
+    "end_section": "93",
+    "section_count": 31
+  },
+  {
+    "id": "BNSS-CHAPTER-VII",
+    "law_code": "BNSS",
+    "chapter_number": "VII",
+    "title": "PROCESSES TO COMPEL THE PRODUCTION OF THINGS",
+    "start_section": "94",
+    "end_section": "110",
+    "section_count": 17
+  },
+  {
+    "id": "BNSS-CHAPTER-VIII",
+    "law_code": "BNSS",
+    "chapter_number": "VIII",
+    "title": "THE RECIPROCAL ARRANGEMENTS",
+    "start_section": "111",
+    "end_section": "124",
+    "section_count": 14
+  },
+  {
+    "id": "BNSS-CHAPTER-IX",
+    "law_code": "BNSS",
+    "chapter_number": "IX",
+    "title": "SECURITY FOR KEEPING THE PEACE AND FOR GOOD BEHAVIOUR",
+    "start_section": "125",
+    "end_section": "143",
+    "section_count": 19
+  },
+  {
+    "id": "BNSS-CHAPTER-X",
+    "law_code": "BNSS",
+    "chapter_number": "X",
+    "title": "MAINTENANCE OF WIVES, CHILDREN AND PARENTS",
+    "start_section": "144",
+    "end_section": "147",
+    "section_count": 4
+  },
+  {
+    "id": "BNSS-CHAPTER-XI",
+    "law_code": "BNSS",
+    "chapter_number": "XI",
+    "title": "MAINTENANCE OF PUBLIC ORDER AND TRANQUILLITY",
+    "start_section": "148",
+    "end_section": "167",
+    "section_count": 20
+  },
+  {
+    "id": "BNSS-CHAPTER-XII",
+    "law_code": "BNSS",
+    "chapter_number": "XII",
+    "title": "PREVENTIVE ACTION OF THE POLICE",
+    "start_section": "168",
+    "end_section": "177",
+    "section_count": 10
+  },
+  {
+    "id": "BNSS-CHAPTER-XIII",
+    "law_code": "BNSS",
+    "chapter_number": "XIII",
+    "title": "INFORMATION TO THE POLICE AND THEIR POWERS TO INVESTIGATE",
+    "start_section": "178",
+    "end_section": "196",
+    "section_count": 19
+  },
+  {
+    "id": "BNSS-CHAPTER-XIV",
+    "law_code": "BNSS",
+    "chapter_number": "XIV",
+    "title": "JURISDICTION OF THE CRIMINAL COURTS IN INQUIRIES AND TRIALS",
+    "start_section": "197",
+    "end_section": "209",
+    "section_count": 13
+  },
+  {
+    "id": "BNSS-CHAPTER-XV",
+    "law_code": "BNSS",
+    "chapter_number": "XV",
+    "title": "COMPLAINTS TO MAGISTRATES",
+    "start_section": "210",
+    "end_section": "222",
+    "section_count": 13
+  },
+  {
+    "id": "BNSS-CHAPTER-XVI",
+    "law_code": "BNSS",
+    "chapter_number": "XVI",
+    "title": "COMMENCEMENT OF PROCEEDINGS BEFORE MAGISTRATES",
+    "start_section": "223",
+    "end_section": "233",
+    "section_count": 11
+  },
+  {
+    "id": "BNSS-CHAPTER-XVII",
+    "law_code": "BNSS",
+    "chapter_number": "XVII",
+    "title": "THE CHARGE",
+    "start_section": "234",
+    "end_section": "240",
+    "section_count": 7
+  },
+  {
+    "id": "BNSS-CHAPTER-XVIII",
+    "law_code": "BNSS",
+    "chapter_number": "XVIII",
+    "title": "JOINDER OF CHARGES",
+    "start_section": "241",
+    "end_section": "247",
+    "section_count": 7
+  },
+  {
+    "id": "BNSS-CHAPTER-XIX",
+    "law_code": "BNSS",
+    "chapter_number": "XIX",
+    "title": "THE TRIAL BEFORE A COURT OF SESSION",
+    "start_section": "248",
+    "end_section": "260",
+    "section_count": 13
+  },
+  {
+    "id": "BNSS-CHAPTER-XX",
+    "law_code": "BNSS",
+    "chapter_number": "XX",
+    "title": "TRIAL OF WARRANT-CASES BY MAGISTRATES",
+    "start_section": "261",
+    "end_section": "273",
+    "section_count": 13
+  },
+  {
+    "id": "BNSS-CHAPTER-XXI",
+    "law_code": "BNSS",
+    "chapter_number": "XXI",
+    "title": "TRIAL OF SUMMONS-CASES BY MAGISTRATES",
+    "start_section": "274",
+    "end_section": "282",
+    "section_count": 9
+  },
+  {
+    "id": "BNSS-CHAPTER-XXII",
+    "law_code": "BNSS",
+    "chapter_number": "XXII",
+    "title": "SUMMARY TRIALS",
+    "start_section": "283",
+    "end_section": "288",
+    "section_count": 6
+  },
+  {
+    "id": "BNSS-CHAPTER-XXIII",
+    "law_code": "BNSS",
+    "chapter_number": "XXIII",
+    "title": "PLEA BARGAINING",
+    "start_section": "289",
+    "end_section": "300",
+    "section_count": 12
+  },
+  {
+    "id": "BNSS-CHAPTER-XXIV",
+    "law_code": "BNSS",
+    "chapter_number": "XXIV",
+    "title": "ATTENDANCE OF PERSONS CONFINED OR DETAINED IN PRISONS",
+    "start_section": "301",
+    "end_section": "306",
+    "section_count": 6
+  },
+  {
+    "id": "BNSS-CHAPTER-XXV",
+    "law_code": "BNSS",
+    "chapter_number": "XXV",
+    "title": "EVIDENCE IN INQUIRIES AND TRIALS",
+    "start_section": "307",
+    "end_section": "336",
+    "section_count": 30
+  },
+  {
+    "id": "BNSS-CHAPTER-XXVI",
+    "law_code": "BNSS",
+    "chapter_number": "XXVI",
+    "title": "GENERAL PROVISIONS AS TO INQUIRIES AND TRIALS",
+    "start_section": "337",
+    "end_section": "366",
+    "section_count": 30
+  },
+  {
+    "id": "BNSS-CHAPTER-XXVII",
+    "law_code": "BNSS",
+    "chapter_number": "XXVII",
+    "title": "THE ACCUSED PERSON'S RIGHT TO BE DEFENDED",
+    "start_section": "367",
+    "end_section": "379",
+    "section_count": 13
+  },
+  {
+    "id": "BNSS-CHAPTER-XXVIII",
+    "law_code": "BNSS",
+    "chapter_number": "XXVIII",
+    "title": "RECIPROCAL ARRANGEMENTS",
+    "start_section": "380",
+    "end_section": "391",
+    "section_count": 12
+  },
+  {
+    "id": "BNSS-CHAPTER-XXIX",
+    "law_code": "BNSS",
+    "chapter_number": "XXIX",
+    "title": "THE JUDGMENT",
+    "start_section": "392",
+    "end_section": "405",
+    "section_count": 14
+  },
+  {
+    "id": "BNSS-CHAPTER-XXX",
+    "law_code": "BNSS",
+    "chapter_number": "XXX",
+    "title": "SUBMISSION OF DEATH SENTENCES FOR CONFIRMATION",
+    "start_section": "406",
+    "end_section": "418",
+    "section_count": 13
+  },
+  {
+    "id": "BNSS-CHAPTER-XXXI",
+    "law_code": "BNSS",
+    "chapter_number": "XXXI",
+    "title": "APPEALS",
+    "start_section": "419",
+    "end_section": "432",
+    "section_count": 14
+  },
+  {
+    "id": "BNSS-CHAPTER-XXXII",
+    "law_code": "BNSS",
+    "chapter_number": "XXXII",
+    "title": "REFERENCE AND REVISION",
+    "start_section": "433",
+    "end_section": "448",
+    "section_count": 16
+  },
+  {
+    "id": "BNSS-CHAPTER-XXXIII",
+    "law_code": "BNSS",
+    "chapter_number": "XXXIII",
+    "title": "TRANSFER OF CRIMINAL CASES",
+    "start_section": "449",
+    "end_section": "452",
+    "section_count": 4
+  },
+  {
+    "id": "BNSS-CHAPTER-XXXIV",
+    "law_code": "BNSS",
+    "chapter_number": "XXXIV",
+    "title": "EXECUTION, SUSPENSION, REMISSION AND COMMUTATION OF SENTENCES",
+    "start_section": "453",
+    "end_section": "477",
+    "section_count": 25
+  },
+  {
+    "id": "BNSS-CHAPTER-XXXV",
+    "law_code": "BNSS",
+    "chapter_number": "XXXV",
+    "title": "PROVISIONS AS TO BAIL AND BONDS",
+    "start_section": "478",
+    "end_section": "496",
+    "section_count": 19
+  },
+  {
+    "id": "BNSS-CHAPTER-XXXVI",
+    "law_code": "BNSS",
+    "chapter_number": "XXXVI",
+    "title": "DISPOSAL OF PROPERTY",
+    "start_section": "497",
+    "end_section": "505",
+    "section_count": 9
+  },
+  {
+    "id": "BNSS-CHAPTER-XXXVII",
+    "law_code": "BNSS",
+    "chapter_number": "XXXVII",
+    "title": "IRREGULAR PROCEEDINGS",
+    "start_section": "506",
+    "end_section": "512",
+    "section_count": 7
+  },
+  {
+    "id": "BNSS-CHAPTER-XXXVIII",
+    "law_code": "BNSS",
+    "chapter_number": "XXXVIII",
+    "title": "LIMITATION FOR TAKING COGNIZANCE OF CERTAIN OFFENCES",
+    "start_section": "513",
+    "end_section": "519",
+    "section_count": 7
+  },
+  {
+    "id": "BNSS-CHAPTER-XXXIX",
+    "law_code": "BNSS",
+    "chapter_number": "XXXIX",
+    "title": "MISCELLANEOUS",
+    "start_section": "520",
+    "end_section": "531",
+    "section_count": 12
+  }
+]

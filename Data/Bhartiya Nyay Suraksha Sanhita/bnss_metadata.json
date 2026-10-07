@@ -1,0 +1,19 @@
+{
+  "dataset_name": "BNSS Production RAG Dataset",
+  "law_code": "BNSS",
+  "law_name": "The Bharatiya Nagarik Suraksha Sanhita, 2023",
+  "source_file": "BNSS.pdf",
+  "source_pages": 279,
+  "sections": 531,
+  "chapters": 39,
+  "schedules": 2,
+  "rag_chunks": 648,
+  "schema_version": "1.0",
+  "design_notes": [
+    "Verbatim source text is preserved separately from retrieval-cleaned text.",
+    "RAG chunks retain legal hierarchy and source page metadata.",
+    "Schedules are separate provision types.",
+    "No AI-generated legal interpretation is included in the authoritative dataset."
+  ],
+  "validation_status": "technical QA completed; legal-text verification against the authoritative current publication is still required before production legal deployment."
+}

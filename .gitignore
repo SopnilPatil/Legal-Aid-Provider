@@ -1,0 +1,105 @@
+# ==============================================================================
+# Git Ignore Configuration for Legal Aid Provider
+# ==============================================================================
+
+# Environment files & Secrets
+.env
+.env.*
+!.env.example
+*.env
+backend/.env
+backend/.env.*
+!backend/.env.example
+
+# Large Executables, Installers & Binaries (>100MB blocked by GitHub)
+*.exe
+OllamaSetup.exe
+*.msi
+*.dmg
+*.pkg
+*.dll
+*.so
+*.dylib
+
+# Local Databases (SQLite, dumps)
+*.db
+*.sqlite
+*.sqlite3
+legalaid.db
+backend/legalaid.db
+*.sql
+
+# Python Bytecode & Cache
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environments
+venv/
+**/venv/
+.venv/
+**/.venv/
+env/
+**/env/
+ENV/
+env.bak/
+venv.bak/
+
+# IDEs & Code Editors
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.swp
+*.swo
+*~
+
+# Operating System Files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Logs & Debugging
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+lerna-debug.log*
+
+# Node / Frontend temporary files (if applicable)
+node_modules/
+.npm/
+
+# Temporary and Scratch Directories
+tmp/
+temp/
+scratch/

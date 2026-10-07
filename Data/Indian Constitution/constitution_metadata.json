@@ -1,0 +1,14 @@
+{
+  "dataset_name": "Indian Constitution Legal Knowledge Dataset",
+  "source_file": "Indian constitution.pdf",
+  "source_date": "As on 1st May, 2026",
+  "source_note": "The PDF states that the text incorporates amendments up to the Constitution (One Hundred and Sixth Amendment) Act, 2023.",
+  "articles_total": 500,
+  "dataset_note": "Article records are structured from the uploaded PDF. A small number of omitted/inserted article records are retained as separate records so the numbering and source status are not lost.",
+  "articles_with_text": 499,
+  "articles_omitted": 12,
+  "schedules_total": 12,
+  "appendices_total": 3,
+  "search_chunks_total": 771,
+  "part_count": 26
+}

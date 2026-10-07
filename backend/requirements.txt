@@ -1,0 +1,27 @@
+# Core Framework
+fastapi
+uvicorn
+python-dotenv
+pydantic
+
+# Database & ORM
+sqlalchemy
+pymysql
+cryptography
+
+# Authentication & Security
+passlib[bcrypt]
+python-jose[cryptography]
+python-multipart
+
+# HTTP Client & LLM
+httpx
+
+# RAG & Machine Learning
+sentence-transformers
+faiss-cpu
+numpy
+torch
+
+# Data Extraction & Utilities
+PyPDF2

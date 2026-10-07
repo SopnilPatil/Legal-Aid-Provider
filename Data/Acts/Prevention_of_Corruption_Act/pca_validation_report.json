@@ -1,0 +1,14 @@
+{
+  "source_document": "Prevention_of_Corruption_Act.pdf",
+  "source_date": "As on the 21st May, 2025",
+  "records": 54,
+  "unique_ids": 54,
+  "missing_text": 0,
+  "missing_search_text": 0,
+  "missing_provision_number": 0,
+  "missing_provision_title": 0,
+  "issues": [],
+  "central_act_sections_represented": 35,
+  "excluded_state_amendment_block": "Sections 17B to 17G in the supplied PDF were treated as a Jammu & Kashmir/Ladakh state-amendment block and were not included in the central Act dataset.",
+  "status": "PASSED"
+}

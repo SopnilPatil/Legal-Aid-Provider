@@ -1,0 +1,47 @@
+{
+  "dataset_name": "BNS RAG Dataset",
+  "law": "Bharatiya Nyaya Sanhita, 2023",
+  "act_number": "45 of 2023",
+  "source_file": "BNS.pdf",
+  "source_version": "As on the 6th October, 2025",
+  "sections": 358,
+  "chapters": 20,
+  "source_pages_used": [
+    16,
+    110
+  ],
+  "excluded_pages": [
+    1,
+    2,
+    3,
+    4,
+    5,
+    6,
+    7,
+    8,
+    9,
+    10,
+    11,
+    12,
+    13,
+    14,
+    15,
+    111,
+    112
+  ],
+  "note": "Section records preserve the Act text extracted from the uploaded PDF. No BNSS classification fields (cognizable/bailable/court) are added because those belong to procedural/schedule sources, not the BNS text itself.",
+  "recommended_rag_fields": [
+    "id",
+    "law",
+    "act_name",
+    "section",
+    "section_title",
+    "chapter",
+    "chapter_title",
+    "content",
+    "source",
+    "source_page_start",
+    "source_page_end"
+  ],
+  "embedding_text": "section_title + chapter_title + content"
+}

@@ -1,0 +1,143 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Chat — Legal Aid Provider</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+<!--Animation file-->
+<script src="animations.js"></script>
+
+<!-- Sidebar overlay -->
+<div id="sidebar-overlay" onclick="toggleSidebar()" style="display:none;position:fixed;inset:0;background:rgba(0,0,0,0.55);z-index:150;"></div>
+
+<!-- History sidebar -->
+<div id="sidebar">
+  <div class="sidebar-header">
+    <span class="sidebar-title">Chat History</span>
+    <button class="new-chat-btn" onclick="newChat()">+ New</button>
+  </div>
+  <div id="history-list"></div>
+  <div class="sidebar-footer">
+    <div class="sidebar-user">
+      <div class="sidebar-user-dot"></div>
+      <span id="sidebar-user-name"></span>
+    </div>
+    <button class="signout-btn" onclick="logout()">Sign out</button>
+  </div>
+</div>
+
+<nav>
+  <button onclick="toggleSidebar()" style="background:none;border:none;cursor:pointer;padding:6px 10px;margin-right:6px;color:var(--gold);font-size:20px;" title="History">☰</button>
+  <a href="index.html" class="nav-brand">
+    <div class="nav-logo">⚖️</div>
+    <span class="nav-brand-text">Legal Aid Provider</span>
+  </a>
+  <div class="nav-links">
+    <a href="index.html" class="nav-link">Home</a>
+    <a href="chat.html" class="nav-link active">Chat</a>
+    <a href="about.html" class="nav-link">About</a>
+    <button class="theme-toggle" onclick="toggleTheme()" title="Toggle theme"></button>
+  </div>
+  <button class="hamburger" id="hamburger" onclick="toggleMenu()">
+  </button>
+</nav>
+<div class="mobile-menu" id="mobile-menu">
+  <a href="index.html" class="nav-link">Home</a>
+  <a href="chat.html" class="nav-link active">Chat</a>
+  <a href="about.html" class="nav-link">About</a>
+  <button class="theme-toggle" onclick="toggleTheme()" style="margin:8px 14px;"></button>
+</div>
+
+<div id="chat-page">
+
+  <div id="lang-bar">
+    <span>Language:</span>
+    <button class="lang-btn active" onclick="setLang(this,'en')">English</button>
+    <button class="lang-btn" onclick="setLang(this,'hi')">हिंदी</button>
+    <button class="lang-btn" onclick="setLang(this,'ta')">தமிழ்</button>
+    <button class="lang-btn" onclick="setLang(this,'te')">తెలుగు</button>
+    <button class="lang-btn" onclick="setLang(this,'bn')">বাংলা</button>
+    <button class="lang-btn" onclick="setLang(this,'mr')">मराठी</button>
+    <button class="lang-btn" onclick="setLang(this,'gu')">ગુજરાતી</button>
+    <button class="lang-btn" onclick="setLang(this,'kn')">ಕನ್ನಡ</button>
+  </div>
+
+  <div id="chips">
+    <button class="chip" onclick="setTopic(this,'consumer')">🛒 Consumer rights</button>
+    <button class="chip" onclick="setTopic(this,'property')">🏠 Property & rent</button>
+    <button class="chip" onclick="setTopic(this,'employment')">💼 Employment</button>
+    <button class="chip" onclick="setTopic(this,'family')">👨‍👩‍👧 Family & marriage</button>
+    <button class="chip" onclick="setTopic(this,'criminal')">🚔 Criminal & FIR</button>
+    <button class="chip" onclick="setTopic(this,'rti')">📄 RTI</button>
+  </div>
+
+  <div id="topic-indicator">
+    <span id="topic-label"></span>
+    <button onclick="clearTopic()" style="margin-left:10px;background:none;border:none;color:var(--muted);font-size:11px;cursor:pointer;font-family:var(--font-body);">✕ clear</button>
+  </div>
+
+  <div id="chat-toolbar">
+    <button class="tool-btn danger" onclick="clearChat()">🗑 Clear chat</button>
+  </div>
+
+  <div id="messages">
+    <div class="msg bot">
+      <div class="avatar bot-avatar">LA</div>
+      <div class="msg-group">
+        <div class="bubble">
+          <strong>Welcome to Legal Aid Provider</strong><br><br>
+          I help you understand your rights under Indian law. Select a topic above or type your question below. You can also use the 🎤 voice button to speak.<br><br>
+          <em>This service provides legal information only. Always consult a licensed advocate for formal proceedings.</em>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <div id="input-wrap">
+    <div class="input-row">
+      <textarea id="input" rows="1" placeholder="Describe your legal issue…"
+        onkeydown="handleKey(event)" oninput="resize(this)"></textarea>
+      <div class="input-actions">
+        <button id="voice-btn" onclick="toggleVoice()" title="Voice input">
+          <svg viewBox="0 0 24 24"><path d="M12 1a4 4 0 0 1 4 4v6a4 4 0 0 1-8 0V5a4 4 0 0 1 4-4zm-7 10a7 7 0 0 0 14 0h-2a5 5 0 0 1-10 0H5zm7 9v-3h-2v3H8v2h8v-2h-2z"/></svg>
+        </button>
+        <button id="send" onclick="sendMessage()" title="Send">
+          <svg viewBox="0 0 24 24"><path d="M2 21l21-9L2 3v7l15 2-15 2z"/></svg>
+        </button>
+      </div>
+    </div>
+    <div id="voice-status"></div>
+  </div>
+
+  <div id="disclaimer">For informational purposes only · Not a substitute for professional legal counsel</div>
+</div>
+
+<script src="auth.js"></script>
+<script src="script.js"></script>
+<script src="history.js"></script>
+<script>
+  function toggleTheme() {
+    const html = document.documentElement;
+    html.dataset.theme = html.dataset.theme === 'light' ? '' : 'light';
+    localStorage.setItem('theme', html.dataset.theme);
+  }
+  const saved = localStorage.getItem('theme');
+  if (saved) document.documentElement.dataset.theme = saved;
+
+  function toggleMenu() {
+    document.getElementById('hamburger').classList.toggle('open');
+    document.getElementById('mobile-menu').classList.toggle('open');
+  }
+</script>
+
+<!-- Particle background for chat page -->
+<div id="chat-bg">
+  <canvas id="chat-canvas"></canvas>
+</div>
+
+
+</body>
+</html>

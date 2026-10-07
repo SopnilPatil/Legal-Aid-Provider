@@ -1,0 +1,106 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>About — Legal Aid Provider</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+<nav>
+  <a href="index.html" class="nav-brand">
+    <div class="nav-logo">⚖️</div>
+    <span class="nav-brand-text">Legal Aid Provider</span>
+  </a>
+  <div class="nav-links">
+    <a href="index.html" class="nav-link">Home</a>
+    <a href="chat.html" class="nav-link">Chat</a>
+    <a href="about.html" class="nav-link active">About</a>
+    <button class="theme-toggle" onclick="toggleTheme()" title="Toggle theme"></button>
+  </div>
+  <button class="hamburger" id="hamburger" onclick="toggleMenu()">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+
+<div class="mobile-menu" id="mobile-menu">
+  <a href="index.html" class="nav-link">Home</a>
+  <a href="chat.html" class="nav-link">Chat</a>
+  <a href="about.html" class="nav-link active">About</a>
+  <button class="theme-toggle" onclick="toggleTheme()" style="margin:8px 14px;"></button>
+</div>
+
+<div class="about-hero">
+  <p style="font-size:11px;font-weight:600;letter-spacing:0.16em;text-transform:uppercase;color:var(--gold);margin-bottom:12px;" class="fade-in">Our Mission</p>
+  <h1 style="font-family:var(--font-head);font-size:40px;font-weight:700;margin-bottom:16px;color:var(--text);" class="fade-in">Making Legal Knowledge Accessible</h1>
+  <p style="font-size:16px;color:var(--muted);max-width:540px;margin:0 auto;line-height:1.78;" class="fade-in">
+    Legal Aid Provider bridges the gap between ordinary citizens and the Indian legal system — giving everyone access to clear, reliable legal information for free.
+  </p>
+</div>
+
+<section class="section">
+  <p class="section-label fade-in">The problem we solve</p>
+  <h2 class="section-title fade-in">Legal Help Should Not Be a Luxury</h2>
+  <div class="grid-2">
+    <div class="fade-in">
+      <p style="color:var(--muted);line-height:1.82;margin-bottom:16px;">In India, millions face legal disputes every day — with landlords, employers, companies, and government offices — but lack affordable legal guidance.</p>
+      <p style="color:var(--muted);line-height:1.82;">Most people don't know their rights under the Consumer Protection Act, cannot navigate the RTI process, or don't know how to respond when a landlord unlawfully withholds a deposit.</p>
+    </div>
+    <div class="fade-in">
+      <p style="color:var(--muted);line-height:1.82;margin-bottom:16px;">Legal Aid Provider uses AI to explain Indian law in plain, simple language — so any citizen can understand their rights and approach the right authority with confidence.</p>
+      <p style="color:var(--muted);line-height:1.82;">We cover six major areas: consumer rights, property & rent, employment, family & marriage, criminal matters, and RTI.</p>
+    </div>
+  </div>
+</section>
+
+<hr class="divider"/>
+
+<section class="section">
+  <p class="section-label fade-in">Legal coverage</p>
+  <h2 class="section-title fade-in">Laws We Cover</h2>
+  <div class="grid-2">
+    <div class="card fade-in"><h3>Consumer & Commerce</h3><p>Consumer Protection Act 2019 · RERA 2016 · E-commerce rules · Product liability</p></div>
+    <div class="card fade-in"><h3>Property & Tenancy</h3><p>Transfer of Property Act 1882 · State Rent Control Acts · Eviction procedures</p></div>
+    <div class="card fade-in"><h3>Employment & Labour</h3><p>Industrial Disputes Act 1947 · Minimum Wages Act · POSH Act 2013 · Maternity Benefit Act</p></div>
+    <div class="card fade-in"><h3>Family Law</h3><p>Hindu Marriage Act 1955 · Special Marriage Act · PWDVA 2005 · Section 125 CrPC</p></div>
+    <div class="card fade-in"><h3>Criminal Law</h3><p>IPC 1860 · Bharatiya Nyaya Sanhita 2023 · BNSS · Bail · Zero FIR</p></div>
+    <div class="card fade-in"><h3>Right to Information</h3><p>RTI Act 2005 · PIO obligations · First & second appeals · CIC / SIC</p></div>
+  </div>
+</section>
+
+<hr class="divider"/>
+
+<section class="section" style="text-align:center;">
+  <p class="section-label fade-in">Important notice</p>
+  <h2 class="section-title fade-in">Legal Information, Not Legal Advice</h2>
+  <p style="color:var(--muted);max-width:580px;margin:0 auto 36px;line-height:1.82;" class="fade-in">
+    Legal Aid Provider provides general legal information based on Indian law. It is not a substitute for professional legal advice. For court cases or complex matters, always consult a qualified advocate.
+  </p>
+  <a href="chat.html" class="btn btn-primary fade-in">Start a Conversation →</a>
+</section>
+
+<footer>
+  <p>© 2025 Legal Aid Provider · For informational purposes only · Not a substitute for professional legal advice</p>
+</footer>
+
+<script>
+  function toggleTheme() {
+    const html = document.documentElement;
+    html.dataset.theme = html.dataset.theme === 'light' ? '' : 'light';
+    localStorage.setItem('theme', html.dataset.theme);
+  }
+  const saved = localStorage.getItem('theme');
+  if (saved) document.documentElement.dataset.theme = saved;
+
+  function toggleMenu() {
+    document.getElementById('hamburger').classList.toggle('open');
+    document.getElementById('mobile-menu').classList.toggle('open');
+  }
+
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('visible'); });
+  }, { threshold: 0.12 });
+  document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
+</script>
+</body>
+</html>

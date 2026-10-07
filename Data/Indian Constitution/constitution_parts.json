@@ -1,0 +1,158 @@
+[
+  {
+    "id": "CONSTITUTION-PART-I",
+    "part_number": "I",
+    "title": "THE UNION AND ITS TERRITORY",
+    "start_article": "1"
+  },
+  {
+    "id": "CONSTITUTION-PART-II",
+    "part_number": "II",
+    "title": "CITIZENSHIP",
+    "start_article": "5"
+  },
+  {
+    "id": "CONSTITUTION-PART-III",
+    "part_number": "III",
+    "title": "FUNDAMENTAL RIGHTS",
+    "start_article": "12"
+  },
+  {
+    "id": "CONSTITUTION-PART-IV",
+    "part_number": "IV",
+    "title": "DIRECTIVE PRINCIPLES OF STATE POLICY",
+    "start_article": "36"
+  },
+  {
+    "id": "CONSTITUTION-PART-IVA",
+    "part_number": "IVA",
+    "title": "FUNDAMENTAL DUTIES",
+    "start_article": "51A"
+  },
+  {
+    "id": "CONSTITUTION-PART-V",
+    "part_number": "V",
+    "title": "THE UNION",
+    "start_article": "52"
+  },
+  {
+    "id": "CONSTITUTION-PART-VI",
+    "part_number": "VI",
+    "title": "THE STATES",
+    "start_article": "152"
+  },
+  {
+    "id": "CONSTITUTION-PART-VII",
+    "part_number": "VII",
+    "title": "THE STATES IN PART B OF THE FIRST SCHEDULE — OMITTED",
+    "start_article": "238"
+  },
+  {
+    "id": "CONSTITUTION-PART-VIII",
+    "part_number": "VIII",
+    "title": "THE UNION TERRITORIES",
+    "start_article": "239"
+  },
+  {
+    "id": "CONSTITUTION-PART-IX",
+    "part_number": "IX",
+    "title": "THE PANCHAYATS",
+    "start_article": "243"
+  },
+  {
+    "id": "CONSTITUTION-PART-IXA",
+    "part_number": "IXA",
+    "title": "THE MUNICIPALITIES",
+    "start_article": "243P"
+  },
+  {
+    "id": "CONSTITUTION-PART-IXB",
+    "part_number": "IXB",
+    "title": "THE CO-OPERATIVE SOCIETIES",
+    "start_article": "243ZH"
+  },
+  {
+    "id": "CONSTITUTION-PART-X",
+    "part_number": "X",
+    "title": "THE SCHEDULED AND TRIBAL AREAS",
+    "start_article": "244"
+  },
+  {
+    "id": "CONSTITUTION-PART-XI",
+    "part_number": "XI",
+    "title": "RELATIONS BETWEEN THE UNION AND THE STATES",
+    "start_article": "245"
+  },
+  {
+    "id": "CONSTITUTION-PART-XII",
+    "part_number": "XII",
+    "title": "FINANCE, PROPERTY, CONTRACTS AND SUITS",
+    "start_article": "264"
+  },
+  {
+    "id": "CONSTITUTION-PART-XIII",
+    "part_number": "XIII",
+    "title": "TRADE, COMMERCE AND INTERCOURSE WITHIN THE TERRITORY OF INDIA",
+    "start_article": "301"
+  },
+  {
+    "id": "CONSTITUTION-PART-XIV",
+    "part_number": "XIV",
+    "title": "SERVICES UNDER THE UNION AND THE STATES",
+    "start_article": "308"
+  },
+  {
+    "id": "CONSTITUTION-PART-XIVA",
+    "part_number": "XIVA",
+    "title": "TRIBUNALS",
+    "start_article": "323A"
+  },
+  {
+    "id": "CONSTITUTION-PART-XV",
+    "part_number": "XV",
+    "title": "ELECTIONS",
+    "start_article": "324"
+  },
+  {
+    "id": "CONSTITUTION-PART-XVI",
+    "part_number": "XVI",
+    "title": "SPECIAL PROVISIONS RELATING TO CERTAIN CLASSES",
+    "start_article": "330"
+  },
+  {
+    "id": "CONSTITUTION-PART-XVII",
+    "part_number": "XVII",
+    "title": "OFFICIAL LANGUAGE",
+    "start_article": "343"
+  },
+  {
+    "id": "CONSTITUTION-PART-XVIII",
+    "part_number": "XVIII",
+    "title": "EMERGENCY PROVISIONS",
+    "start_article": "352"
+  },
+  {
+    "id": "CONSTITUTION-PART-XIX",
+    "part_number": "XIX",
+    "title": "MISCELLANEOUS",
+    "start_article": "361"
+  },
+  {
+    "id": "CONSTITUTION-PART-XX",
+    "part_number": "XX",
+    "title": "AMENDMENT OF THE CONSTITUTION",
+    "start_article": "368"
+  },
+  {
+    "id": "CONSTITUTION-PART-XXI",
+    "part_number": "XXI",
+    "title": "TEMPORARY, TRANSITIONAL AND SPECIAL PROVISIONS",
+    "start_article": "369"
+  },
+  {
+    "id": "CONSTITUTION-PART-XXII",
+    "part_number": "XXII",
+    "title": "SHORT TITLE, COMMENCEMENT, AUTHORITATIVE TEXT IN HINDI AND REPEALS",
+    "start_article": "393"
+  }
+]

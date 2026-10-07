@@ -1,0 +1,84 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Login — Legal Aid Provider</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+<div class="auth-wrap">
+  <div class="auth-card">
+    <div class="auth-logo">
+      <span>⚖️</span>
+      <h1>Legal Aid Provider</h1>
+      <p>Sign in to save your chat history</p>
+    </div>
+    <div class="tab-row">
+      <button class="tab-btn active" id="tab-login" onclick="switchTab('login')">Login</button>
+      <button class="tab-btn" id="tab-signup" onclick="switchTab('signup')">Sign up</button>
+    </div>
+    <div id="form-login">
+      <div class="field"><label>Email</label><input type="email" id="login-email" placeholder="you@example.com"/></div>
+      <div class="field"><label>Password</label><input type="password" id="login-password" placeholder="Your password"/></div>
+      <button class="auth-btn" onclick="handleLogin()">Login</button>
+    </div>
+    <div id="form-signup" style="display:none;">
+      <div class="field"><label>Full name</label><input type="text" id="signup-name" placeholder="Your name"/></div>
+      <div class="field"><label>Email</label><input type="email" id="signup-email" placeholder="you@example.com"/></div>
+      <div class="field"><label>Password</label><input type="password" id="signup-password" placeholder="Min 6 characters"/></div>
+      <button class="auth-btn" onclick="handleSignup()">Create account</button>
+    </div>
+    <div class="auth-error" id="auth-error"></div>
+  </div>
+</div>
+
+<!-- Add this inside #form-login div, after the login button -->
+<div style="text-align:center; margin-top:14px;">
+  <a href="forgot-password.html"
+     style="font-size:13px; color:var(--muted); text-decoration:none; transition: color 0.18s;"
+     onmouseover="this.style.color='var(--gold)'"
+     onmouseout="this.style.color='var(--muted)'">
+    Forgot your password?
+  </a>
+</div>
+
+<script src="auth.js"></script>
+<script>
+  if (isLoggedIn()) window.location.href = 'chat.html';
+  const saved = localStorage.getItem('theme');
+  if (saved) document.documentElement.dataset.theme = saved;
+
+  function switchTab(tab) {
+    document.getElementById('form-login').style.display  = tab === 'login'  ? 'block' : 'none';
+    document.getElementById('form-signup').style.display = tab === 'signup' ? 'block' : 'none';
+    document.getElementById('tab-login').classList.toggle('active',  tab === 'login');
+    document.getElementById('tab-signup').classList.toggle('active', tab === 'signup');
+    document.getElementById('auth-error').textContent = '';
+  }
+
+  async function handleLogin() {
+    const email    = document.getElementById('login-email').value.trim();
+    const password = document.getElementById('login-password').value;
+    try {
+      await login(email, password);
+      window.location.href = 'chat.html';
+    } catch(e) {
+      document.getElementById('auth-error').textContent = e.message;
+    }
+  }
+
+  async function handleSignup() {
+    const name     = document.getElementById('signup-name').value.trim();
+    const email    = document.getElementById('signup-email').value.trim();
+    const password = document.getElementById('signup-password').value;
+    try {
+      await signup(name, email, password);
+      window.location.href = 'chat.html';
+    } catch(e) {
+      document.getElementById('auth-error').textContent = e.message;
+    }
+  }
+</script>
+</body>
+</html>

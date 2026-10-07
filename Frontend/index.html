@@ -1,0 +1,133 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8"/>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+  <title>Legal Aid Provider — Indian Legal Assistant</title>
+  <link rel="stylesheet" href="style.css"/>
+</head>
+<body>
+<nav>
+  <a href="index.html" class="nav-brand">
+    <div class="nav-logo">⚖️</div>
+    <span class="nav-brand-text">Legal Aid Provider</span>
+  </a>
+  <div class="nav-links">
+    <a href="index.html" class="nav-link active">Home</a>
+    <a href="chat.html" class="nav-link">Chat</a>
+    <a href="about.html" class="nav-link">About</a>
+    <button class="theme-toggle" onclick="toggleTheme()" title="Toggle theme"></button>
+  </div>
+  <button class="hamburger" id="hamburger" onclick="toggleMenu()">
+    <span></span><span></span><span></span>
+  </button>
+</nav>
+
+<div class="mobile-menu" id="mobile-menu">
+  <a href="index.html" class="nav-link active">Home</a>
+  <a href="chat.html" class="nav-link">Chat</a>
+  <a href="about.html" class="nav-link">About</a>
+  <button class="theme-toggle" onclick="toggleTheme()" style="margin:8px 14px;"></button>
+</div>
+
+<!-- Hero -->
+<section style="background:var(--grad-hero);padding:100px 40px;border-bottom:1px solid var(--border-gold);position:relative;overflow:hidden;">
+  <!-- Particle canvas -->
+  <div class="particle-wrap">
+    <canvas id="hero-canvas"></canvas>
+  </div>
+  <div style="position:absolute;top:-100px;left:50%;transform:translateX(-50%);width:800px;height:800px;background:radial-gradient(circle,rgba(232,184,75,0.06) 0%,transparent 65%);pointer-events:none;"></div>
+  <div style="max-width:700px;margin:0 auto;text-align:center;position:relative;">
+    <p class="fade-in" style="font-size:11px;font-weight:600;letter-spacing:0.16em;text-transform:uppercase;color:var(--gold);margin-bottom:14px;">Free · Confidential · Instant</p>
+
+    <!-- Typewriter heading — replace your static h1 with this -->
+    <h1 id="hero-title" class="fade-in" style="font-family:var(--font-head);font-size:52px;font-weight:700;line-height:1.14;margin-bottom:20px;color:var(--text);min-height:128px;"></h1>
+
+    <p class="fade-in" style="font-size:17px;color:var(--muted);line-height:1.78;margin-bottom:40px;max-width:520px;margin-left:auto;margin-right:auto;">
+      An AI-powered legal assistant that explains Indian laws in plain language — covering consumer rights, property, employment, family law, criminal matters, and RTI.
+    </p>
+    <div class="fade-in" style="display:flex;gap:14px;justify-content:center;flex-wrap:wrap;">
+      <a href="chat.html" class="btn btn-primary">Start a Conversation</a>
+      <a href="about.html" class="btn btn-outline">Learn More</a>
+    </div>
+  </div>
+</section>
+
+<!-- Legal areas -->
+<section class="section">
+  <p class="section-label fade-in">What we cover</p>
+  <h2 class="section-title fade-in">Six Areas of Indian Law</h2>
+  <p class="section-sub fade-in">Ask about any legal situation and get a clear explanation of the relevant law, your rights, and next steps.</p>
+  <div class="grid-3">
+    <div class="card fade-in"><div class="card-icon">🛒</div><h3>Consumer Rights</h3><p>Defective products, refunds, unfair trade — Consumer Protection Act 2019.</p></div>
+    <div class="card fade-in"><div class="card-icon">🏠</div><h3>Property & Rent</h3><p>Landlord-tenant disputes, deposits, eviction — RERA and Rent Control Acts.</p></div>
+    <div class="card fade-in"><div class="card-icon">💼</div><h3>Employment</h3><p>Wrongful termination, wages, harassment — Industrial Disputes Act & POSH.</p></div>
+    <div class="card fade-in"><div class="card-icon">👨‍👩‍👧</div><h3>Family & Marriage</h3><p>Divorce, maintenance, custody — Hindu Marriage Act and PWDVA 2005.</p></div>
+    <div class="card fade-in"><div class="card-icon">🚔</div><h3>Criminal & FIR</h3><p>Filing FIRs, bail rights, Zero FIR — IPC and BNS 2023.</p></div>
+    <div class="card fade-in"><div class="card-icon">📄</div><h3>RTI & Govt</h3><p>File RTI, appeal decisions, PIO obligations — RTI Act 2005.</p></div>
+  </div>
+</section>
+
+<hr class="divider"/>
+
+<!-- How it works -->
+<section class="section">
+  <p class="section-label fade-in">How it works</p>
+  <h2 class="section-title fade-in">Simple. Fast. Reliable.</h2>
+  <div class="grid-3">
+    <div style="text-align:center;padding:20px;" class="fade-in">
+      <div style="width:56px;height:56px;border-radius:50%;background:var(--gold-soft);border:2px solid var(--border-gold);display:flex;align-items:center;justify-content:center;margin:0 auto 16px;font-family:var(--font-head);font-size:22px;font-weight:700;color:var(--gold);">1</div>
+      <h3 style="font-family:var(--font-head);font-size:17px;margin-bottom:8px;color:var(--text);">Describe your issue</h3>
+      <p style="font-size:14px;color:var(--muted);">Type or speak in plain language — no legal terms needed.</p>
+    </div>
+    <div style="text-align:center;padding:20px;" class="fade-in">
+      <div style="width:56px;height:56px;border-radius:50%;background:var(--gold-soft);border:2px solid var(--border-gold);display:flex;align-items:center;justify-content:center;margin:0 auto 16px;font-family:var(--font-head);font-size:22px;font-weight:700;color:var(--gold);">2</div>
+      <h3 style="font-family:var(--font-head);font-size:17px;margin-bottom:8px;color:var(--text);">AI finds the law</h3>
+      <p style="font-size:14px;color:var(--muted);">Identifies the relevant Indian act, section, and your rights.</p>
+    </div>
+    <div style="text-align:center;padding:20px;" class="fade-in">
+      <div style="width:56px;height:56px;border-radius:50%;background:var(--gold-soft);border:2px solid var(--border-gold);display:flex;align-items:center;justify-content:center;margin:0 auto 16px;font-family:var(--font-head);font-size:22px;font-weight:700;color:var(--gold);">3</div>
+      <h3 style="font-family:var(--font-head);font-size:17px;margin-bottom:8px;color:var(--text);">Get next steps</h3>
+      <p style="font-size:14px;color:var(--muted);">Clear action steps and the right authority or forum to approach.</p>
+    </div>
+  </div>
+  <div style="text-align:center;margin-top:48px;" class="fade-in">
+    <a href="chat.html" class="btn btn-primary">Try it Now →</a>
+  
+  </div>
+</section>
+
+<footer>
+  <p>© 2025 Legal Aid Provider · For informational purposes only · Not a substitute for professional legal advice</p>
+</footer>
+
+<script>
+  function toggleTheme() {
+    const html = document.documentElement;
+    html.dataset.theme = html.dataset.theme === 'light' ? '' : 'light';
+    localStorage.setItem('theme', html.dataset.theme);
+  }
+  const saved = localStorage.getItem('theme');
+  if (saved) document.documentElement.dataset.theme = saved;
+
+  function toggleMenu() {
+    document.getElementById('hamburger').classList.toggle('open');
+    document.getElementById('mobile-menu').classList.toggle('open');
+  }
+
+  const observer = new IntersectionObserver(entries => {
+    entries.forEach(e => { if (e.isIntersecting) e.target.classList.add('visible'); });
+  }, { threshold: 0.12 });
+  document.querySelectorAll('.fade-in').forEach(el => observer.observe(el));
+</script>
+
+
+<!--ANIMATION FILE-->
+<script src="animations.js"></script>
+<script>
+  // Start typewriter on hero heading
+  typeWriter('hero-title', ['Know Your Rights', 'Under Indian Law']);
+  
+</script>
+</body>
+</html>

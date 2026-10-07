@@ -1,0 +1,5843 @@
+[
+  {
+    "id": "BNSS-SEC-1",
+    "section": "1",
+    "title_present": true,
+    "text_chars": 971,
+    "source_pages": [
+      16,
+      16
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-2",
+    "section": "2",
+    "title_present": true,
+    "text_chars": 1059,
+    "source_pages": [
+      16,
+      18
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-3",
+    "section": "3",
+    "title_present": true,
+    "text_chars": 1169,
+    "source_pages": [
+      18,
+      18
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-4",
+    "section": "4",
+    "title_present": true,
+    "text_chars": 488,
+    "source_pages": [
+      18,
+      18
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-5",
+    "section": "5",
+    "title_present": true,
+    "text_chars": 351,
+    "source_pages": [
+      18,
+      19
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-6",
+    "section": "6",
+    "title_present": true,
+    "text_chars": 322,
+    "source_pages": [
+      19,
+      19
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-7",
+    "section": "7",
+    "title_present": true,
+    "text_chars": 667,
+    "source_pages": [
+      19,
+      19
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-8",
+    "section": "8",
+    "title_present": true,
+    "text_chars": 2356,
+    "source_pages": [
+      19,
+      20
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-9",
+    "section": "9",
+    "title_present": true,
+    "text_chars": 1086,
+    "source_pages": [
+      20,
+      20
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-10",
+    "section": "10",
+    "title_present": true,
+    "text_chars": 1033,
+    "source_pages": [
+      20,
+      20
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-11",
+    "section": "11",
+    "title_present": true,
+    "text_chars": 766,
+    "source_pages": [
+      20,
+      20
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-12",
+    "section": "12",
+    "title_present": true,
+    "text_chars": 1136,
+    "source_pages": [
+      20,
+      21
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-13",
+    "section": "13",
+    "title_present": true,
+    "text_chars": 434,
+    "source_pages": [
+      21,
+      21
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-14",
+    "section": "14",
+    "title_present": true,
+    "text_chars": 1484,
+    "source_pages": [
+      21,
+      21
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-15",
+    "section": "15",
+    "title_present": true,
+    "text_chars": 440,
+    "source_pages": [
+      21,
+      21
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-16",
+    "section": "16",
+    "title_present": true,
+    "text_chars": 409,
+    "source_pages": [
+      21,
+      21
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-17",
+    "section": "17",
+    "title_present": true,
+    "text_chars": 528,
+    "source_pages": [
+      21,
+      21
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-18",
+    "section": "18",
+    "title_present": true,
+    "text_chars": 3802,
+    "source_pages": [
+      21,
+      23
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-19",
+    "section": "19",
+    "title_present": true,
+    "text_chars": 928,
+    "source_pages": [
+      23,
+      23
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-20",
+    "section": "20",
+    "title_present": true,
+    "text_chars": 3214,
+    "source_pages": [
+      23,
+      24
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-21",
+    "section": "21",
+    "title_present": true,
+    "text_chars": 791,
+    "source_pages": [
+      24,
+      24
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-22",
+    "section": "22",
+    "title_present": true,
+    "text_chars": 251,
+    "source_pages": [
+      24,
+      24
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-23",
+    "section": "23",
+    "title_present": true,
+    "text_chars": 811,
+    "source_pages": [
+      24,
+      25
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-24",
+    "section": "24",
+    "title_present": true,
+    "text_chars": 666,
+    "source_pages": [
+      25,
+      25
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-25",
+    "section": "25",
+    "title_present": true,
+    "text_chars": 1135,
+    "source_pages": [
+      25,
+      25
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-26",
+    "section": "26",
+    "title_present": true,
+    "text_chars": 352,
+    "source_pages": [
+      25,
+      25
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-27",
+    "section": "27",
+    "title_present": true,
+    "text_chars": 505,
+    "source_pages": [
+      25,
+      25
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-28",
+    "section": "28",
+    "title_present": true,
+    "text_chars": 357,
+    "source_pages": [
+      25,
+      25
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-29",
+    "section": "29",
+    "title_present": true,
+    "text_chars": 869,
+    "source_pages": [
+      25,
+      26
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-30",
+    "section": "30",
+    "title_present": true,
+    "text_chars": 231,
+    "source_pages": [
+      26,
+      26
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-31",
+    "section": "31",
+    "title_present": true,
+    "text_chars": 374,
+    "source_pages": [
+      26,
+      26
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-32",
+    "section": "32",
+    "title_present": true,
+    "text_chars": 232,
+    "source_pages": [
+      26,
+      26
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-33",
+    "section": "33",
+    "title_present": true,
+    "text_chars": 974,
+    "source_pages": [
+      26,
+      27
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-34",
+    "section": "34",
+    "title_present": true,
+    "text_chars": 2721,
+    "source_pages": [
+      27,
+      27
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-35",
+    "section": "35",
+    "title_present": true,
+    "text_chars": 5065,
+    "source_pages": [
+      27,
+      29
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-36",
+    "section": "36",
+    "title_present": true,
+    "text_chars": 622,
+    "source_pages": [
+      29,
+      29
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-37",
+    "section": "37",
+    "title_present": true,
+    "text_chars": 524,
+    "source_pages": [
+      29,
+      29
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-38",
+    "section": "38",
+    "title_present": true,
+    "text_chars": 172,
+    "source_pages": [
+      29,
+      29
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-39",
+    "section": "39",
+    "title_present": true,
+    "text_chars": 966,
+    "source_pages": [
+      29,
+      30
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-40",
+    "section": "40",
+    "title_present": true,
+    "text_chars": 1018,
+    "source_pages": [
+      30,
+      30
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-41",
+    "section": "41",
+    "title_present": true,
+    "text_chars": 549,
+    "source_pages": [
+      30,
+      30
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-42",
+    "section": "42",
+    "title_present": true,
+    "text_chars": 745,
+    "source_pages": [
+      30,
+      30
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-43",
+    "section": "43",
+    "title_present": true,
+    "text_chars": 1787,
+    "source_pages": [
+      30,
+      31
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-44",
+    "section": "44",
+    "title_present": true,
+    "text_chars": 1774,
+    "source_pages": [
+      31,
+      31
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-45",
+    "section": "45",
+    "title_present": true,
+    "text_chars": 154,
+    "source_pages": [
+      31,
+      31
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-46",
+    "section": "46",
+    "title_present": true,
+    "text_chars": 101,
+    "source_pages": [
+      31,
+      31
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-47",
+    "section": "47",
+    "title_present": true,
+    "text_chars": 453,
+    "source_pages": [
+      31,
+      31
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-48",
+    "section": "48",
+    "title_present": true,
+    "text_chars": 969,
+    "source_pages": [
+      31,
+      31
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-49",
+    "section": "49",
+    "title_present": true,
+    "text_chars": 941,
+    "source_pages": [
+      31,
+      32
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-50",
+    "section": "50",
+    "title_present": true,
+    "text_chars": 381,
+    "source_pages": [
+      32,
+      32
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-51",
+    "section": "51",
+    "title_present": true,
+    "text_chars": 1668,
+    "source_pages": [
+      32,
+      32
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-52",
+    "section": "52",
+    "title_present": true,
+    "text_chars": 1757,
+    "source_pages": [
+      32,
+      33
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-53",
+    "section": "53",
+    "title_present": true,
+    "text_chars": 1333,
+    "source_pages": [
+      33,
+      33
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-54",
+    "section": "54",
+    "title_present": true,
+    "text_chars": 827,
+    "source_pages": [
+      33,
+      33
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-55",
+    "section": "55",
+    "title_present": true,
+    "text_chars": 758,
+    "source_pages": [
+      33,
+      34
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-56",
+    "section": "56",
+    "title_present": true,
+    "text_chars": 132,
+    "source_pages": [
+      34,
+      34
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-57",
+    "section": "57",
+    "title_present": true,
+    "text_chars": 280,
+    "source_pages": [
+      34,
+      34
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-58",
+    "section": "58",
+    "title_present": true,
+    "text_chars": 295,
+    "source_pages": [
+      34,
+      34
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-59",
+    "section": "59",
+    "title_present": true,
+    "text_chars": 296,
+    "source_pages": [
+      34,
+      34
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-60",
+    "section": "60",
+    "title_present": true,
+    "text_chars": 149,
+    "source_pages": [
+      34,
+      34
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-61",
+    "section": "61",
+    "title_present": true,
+    "text_chars": 380,
+    "source_pages": [
+      34,
+      34
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-62",
+    "section": "62",
+    "title_present": true,
+    "text_chars": 200,
+    "source_pages": [
+      34,
+      34
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-63",
+    "section": "63",
+    "title_present": true,
+    "text_chars": 400,
+    "source_pages": [
+      34,
+      34
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-64",
+    "section": "64",
+    "title_present": true,
+    "text_chars": 906,
+    "source_pages": [
+      34,
+      35
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-65",
+    "section": "65",
+    "title_present": true,
+    "text_chars": 1027,
+    "source_pages": [
+      35,
+      35
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-66",
+    "section": "66",
+    "title_present": true,
+    "text_chars": 443,
+    "source_pages": [
+      35,
+      35
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-67",
+    "section": "67",
+    "title_present": true,
+    "text_chars": 475,
+    "source_pages": [
+      35,
+      35
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-68",
+    "section": "68",
+    "title_present": true,
+    "text_chars": 453,
+    "source_pages": [
+      35,
+      35
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-69",
+    "section": "69",
+    "title_present": true,
+    "text_chars": 264,
+    "source_pages": [
+      35,
+      35
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-70",
+    "section": "70",
+    "title_present": true,
+    "text_chars": 933,
+    "source_pages": [
+      35,
+      36
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-71",
+    "section": "71",
+    "title_present": true,
+    "text_chars": 837,
+    "source_pages": [
+      36,
+      36
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-72",
+    "section": "72",
+    "title_present": true,
+    "text_chars": 291,
+    "source_pages": [
+      36,
+      36
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-73",
+    "section": "73",
+    "title_present": true,
+    "text_chars": 773,
+    "source_pages": [
+      36,
+      36
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-74",
+    "section": "74",
+    "title_present": true,
+    "text_chars": 434,
+    "source_pages": [
+      36,
+      36
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-75",
+    "section": "75",
+    "title_present": true,
+    "text_chars": 746,
+    "source_pages": [
+      36,
+      37
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-76",
+    "section": "76",
+    "title_present": true,
+    "text_chars": 180,
+    "source_pages": [
+      37,
+      37
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-77",
+    "section": "77",
+    "title_present": true,
+    "text_chars": 178,
+    "source_pages": [
+      37,
+      37
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-78",
+    "section": "78",
+    "title_present": true,
+    "text_chars": 430,
+    "source_pages": [
+      37,
+      37
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-79",
+    "section": "79",
+    "title_present": true,
+    "text_chars": 58,
+    "source_pages": [
+      37,
+      37
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-80",
+    "section": "80",
+    "title_present": true,
+    "text_chars": 895,
+    "source_pages": [
+      37,
+      37
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-81",
+    "section": "81",
+    "title_present": true,
+    "text_chars": 1037,
+    "source_pages": [
+      37,
+      37
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-82",
+    "section": "82",
+    "title_present": true,
+    "text_chars": 829,
+    "source_pages": [
+      37,
+      38
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-83",
+    "section": "83",
+    "title_present": true,
+    "text_chars": 1244,
+    "source_pages": [
+      38,
+      38
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-84",
+    "section": "84",
+    "title_present": true,
+    "text_chars": 2068,
+    "source_pages": [
+      38,
+      38
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-85",
+    "section": "85",
+    "title_present": true,
+    "text_chars": 2364,
+    "source_pages": [
+      38,
+      39
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-86",
+    "section": "86",
+    "title_present": true,
+    "text_chars": 388,
+    "source_pages": [
+      39,
+      39
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-87",
+    "section": "87",
+    "title_present": true,
+    "text_chars": 1623,
+    "source_pages": [
+      39,
+      40
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-88",
+    "section": "88",
+    "title_present": true,
+    "text_chars": 1603,
+    "source_pages": [
+      40,
+      40
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-89",
+    "section": "89",
+    "title_present": true,
+    "text_chars": 285,
+    "source_pages": [
+      40,
+      40
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-90",
+    "section": "90",
+    "title_present": true,
+    "text_chars": 608,
+    "source_pages": [
+      40,
+      40
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-91",
+    "section": "91",
+    "title_present": true,
+    "text_chars": 320,
+    "source_pages": [
+      40,
+      41
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-92",
+    "section": "92",
+    "title_present": true,
+    "text_chars": 241,
+    "source_pages": [
+      41,
+      41
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-93",
+    "section": "93",
+    "title_present": true,
+    "text_chars": 296,
+    "source_pages": [
+      41,
+      41
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-94",
+    "section": "94",
+    "title_present": true,
+    "text_chars": 1238,
+    "source_pages": [
+      41,
+      41
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-95",
+    "section": "95",
+    "title_present": true,
+    "text_chars": 879,
+    "source_pages": [
+      41,
+      41
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-96",
+    "section": "96",
+    "title_present": true,
+    "text_chars": 1216,
+    "source_pages": [
+      41,
+      42
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-97",
+    "section": "97",
+    "title_present": true,
+    "text_chars": 1937,
+    "source_pages": [
+      42,
+      42
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-98",
+    "section": "98",
+    "title_present": true,
+    "text_chars": 1293,
+    "source_pages": [
+      42,
+      43
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-99",
+    "section": "99",
+    "title_present": true,
+    "text_chars": 1595,
+    "source_pages": [
+      43,
+      43
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-100",
+    "section": "100",
+    "title_present": true,
+    "text_chars": 529,
+    "source_pages": [
+      43,
+      43
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-101",
+    "section": "101",
+    "title_present": true,
+    "text_chars": 510,
+    "source_pages": [
+      43,
+      44
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-102",
+    "section": "102",
+    "title_present": true,
+    "text_chars": 175,
+    "source_pages": [
+      44,
+      44
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-103",
+    "section": "103",
+    "title_present": true,
+    "text_chars": 2375,
+    "source_pages": [
+      44,
+      44
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-104",
+    "section": "104",
+    "title_present": true,
+    "text_chars": 669,
+    "source_pages": [
+      44,
+      44
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-105",
+    "section": "105",
+    "title_present": true,
+    "text_chars": 522,
+    "source_pages": [
+      44,
+      45
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-106",
+    "section": "106",
+    "title_present": true,
+    "text_chars": 1473,
+    "source_pages": [
+      45,
+      45
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-107",
+    "section": "107",
+    "title_present": true,
+    "text_chars": 2821,
+    "source_pages": [
+      45,
+      46
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-108",
+    "section": "108",
+    "title_present": true,
+    "text_chars": 141,
+    "source_pages": [
+      46,
+      46
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-109",
+    "section": "109",
+    "title_present": true,
+    "text_chars": 102,
+    "source_pages": [
+      46,
+      46
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-110",
+    "section": "110",
+    "title_present": true,
+    "text_chars": 2923,
+    "source_pages": [
+      46,
+      47
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-111",
+    "section": "111",
+    "title_present": true,
+    "text_chars": 1049,
+    "source_pages": [
+      47,
+      47
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-112",
+    "section": "112",
+    "title_present": true,
+    "text_chars": 1130,
+    "source_pages": [
+      47,
+      47
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-113",
+    "section": "113",
+    "title_present": true,
+    "text_chars": 1126,
+    "source_pages": [
+      47,
+      48
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-114",
+    "section": "114",
+    "title_present": true,
+    "text_chars": 2158,
+    "source_pages": [
+      48,
+      48
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-115",
+    "section": "115",
+    "title_present": true,
+    "text_chars": 1192,
+    "source_pages": [
+      48,
+      49
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-116",
+    "section": "116",
+    "title_present": true,
+    "text_chars": 723,
+    "source_pages": [
+      49,
+      49
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-117",
+    "section": "117",
+    "title_present": true,
+    "text_chars": 833,
+    "source_pages": [
+      49,
+      49
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-118",
+    "section": "118",
+    "title_present": true,
+    "text_chars": 679,
+    "source_pages": [
+      49,
+      49
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-119",
+    "section": "119",
+    "title_present": true,
+    "text_chars": 892,
+    "source_pages": [
+      49,
+      49
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-120",
+    "section": "120",
+    "title_present": true,
+    "text_chars": 1772,
+    "source_pages": [
+      49,
+      50
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-121",
+    "section": "121",
+    "title_present": true,
+    "text_chars": 773,
+    "source_pages": [
+      50,
+      50
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-122",
+    "section": "122",
+    "title_present": true,
+    "text_chars": 462,
+    "source_pages": [
+      50,
+      50
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-123",
+    "section": "123",
+    "title_present": true,
+    "text_chars": 403,
+    "source_pages": [
+      50,
+      50
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-124",
+    "section": "124",
+    "title_present": true,
+    "text_chars": 372,
+    "source_pages": [
+      50,
+      50
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-125",
+    "section": "125",
+    "title_present": true,
+    "text_chars": 1207,
+    "source_pages": [
+      50,
+      51
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-126",
+    "section": "126",
+    "title_present": true,
+    "text_chars": 940,
+    "source_pages": [
+      51,
+      51
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-127",
+    "section": "127",
+    "title_present": true,
+    "text_chars": 1729,
+    "source_pages": [
+      51,
+      52
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-128",
+    "section": "128",
+    "title_present": true,
+    "text_chars": 493,
+    "source_pages": [
+      52,
+      52
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-129",
+    "section": "129",
+    "title_present": true,
+    "text_chars": 1844,
+    "source_pages": [
+      52,
+      52
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-130",
+    "section": "130",
+    "title_present": true,
+    "text_chars": 418,
+    "source_pages": [
+      52,
+      53
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-131",
+    "section": "131",
+    "title_present": true,
+    "text_chars": 173,
+    "source_pages": [
+      53,
+      53
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-132",
+    "section": "132",
+    "title_present": true,
+    "text_chars": 665,
+    "source_pages": [
+      53,
+      53
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-133",
+    "section": "133",
+    "title_present": true,
+    "text_chars": 266,
+    "source_pages": [
+      53,
+      53
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-134",
+    "section": "134",
+    "title_present": true,
+    "text_chars": 262,
+    "source_pages": [
+      53,
+      53
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-135",
+    "section": "135",
+    "title_present": true,
+    "text_chars": 3000,
+    "source_pages": [
+      53,
+      54
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-136",
+    "section": "136",
+    "title_present": true,
+    "text_chars": 723,
+    "source_pages": [
+      54,
+      54
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-137",
+    "section": "137",
+    "title_present": true,
+    "text_chars": 440,
+    "source_pages": [
+      54,
+      54
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-138",
+    "section": "138",
+    "title_present": true,
+    "text_chars": 435,
+    "source_pages": [
+      54,
+      54
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-139",
+    "section": "139",
+    "title_present": true,
+    "text_chars": 325,
+    "source_pages": [
+      54,
+      54
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-140",
+    "section": "140",
+    "title_present": true,
+    "text_chars": 1360,
+    "source_pages": [
+      54,
+      55
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-141",
+    "section": "141",
+    "title_present": true,
+    "text_chars": 3305,
+    "source_pages": [
+      55,
+      55
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-142",
+    "section": "142",
+    "title_present": true,
+    "text_chars": 3759,
+    "source_pages": [
+      55,
+      56
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-143",
+    "section": "143",
+    "title_present": true,
+    "text_chars": 692,
+    "source_pages": [
+      56,
+      57
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-144",
+    "section": "144",
+    "title_present": true,
+    "text_chars": 4096,
+    "source_pages": [
+      57,
+      58
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-145",
+    "section": "145",
+    "title_present": true,
+    "text_chars": 1248,
+    "source_pages": [
+      58,
+      58
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-146",
+    "section": "146",
+    "title_present": true,
+    "text_chars": 2217,
+    "source_pages": [
+      58,
+      59
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-147",
+    "section": "147",
+    "title_present": true,
+    "text_chars": 708,
+    "source_pages": [
+      59,
+      59
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-148",
+    "section": "148",
+    "title_present": true,
+    "text_chars": 1033,
+    "source_pages": [
+      59,
+      59
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-149",
+    "section": "149",
+    "title_present": true,
+    "text_chars": 1013,
+    "source_pages": [
+      59,
+      60
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-150",
+    "section": "150",
+    "title_present": true,
+    "text_chars": 665,
+    "source_pages": [
+      60,
+      60
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-151",
+    "section": "151",
+    "title_present": true,
+    "text_chars": 1406,
+    "source_pages": [
+      60,
+      60
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-152",
+    "section": "152",
+    "title_present": true,
+    "text_chars": 3088,
+    "source_pages": [
+      60,
+      61
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-153",
+    "section": "153",
+    "title_present": true,
+    "text_chars": 412,
+    "source_pages": [
+      61,
+      61
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-154",
+    "section": "154",
+    "title_present": true,
+    "text_chars": 305,
+    "source_pages": [
+      61,
+      61
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-155",
+    "section": "155",
+    "title_present": true,
+    "text_chars": 263,
+    "source_pages": [
+      61,
+      61
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-156",
+    "section": "156",
+    "title_present": true,
+    "text_chars": 1142,
+    "source_pages": [
+      61,
+      62
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-157",
+    "section": "157",
+    "title_present": true,
+    "text_chars": 756,
+    "source_pages": [
+      62,
+      62
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-158",
+    "section": "158",
+    "title_present": true,
+    "text_chars": 198,
+    "source_pages": [
+      62,
+      62
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-159",
+    "section": "159",
+    "title_present": true,
+    "text_chars": 547,
+    "source_pages": [
+      62,
+      62
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-160",
+    "section": "160",
+    "title_present": true,
+    "text_chars": 1072,
+    "source_pages": [
+      62,
+      63
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-161",
+    "section": "161",
+    "title_present": true,
+    "text_chars": 649,
+    "source_pages": [
+      63,
+      63
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-162",
+    "section": "162",
+    "title_present": true,
+    "text_chars": 390,
+    "source_pages": [
+      63,
+      63
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-163",
+    "section": "163",
+    "title_present": true,
+    "text_chars": 2754,
+    "source_pages": [
+      63,
+      64
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-164",
+    "section": "164",
+    "title_present": true,
+    "text_chars": 4188,
+    "source_pages": [
+      64,
+      65
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-165",
+    "section": "165",
+    "title_present": true,
+    "text_chars": 1577,
+    "source_pages": [
+      65,
+      65
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-166",
+    "section": "166",
+    "title_present": true,
+    "text_chars": 2448,
+    "source_pages": [
+      65,
+      66
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-167",
+    "section": "167",
+    "title_present": true,
+    "text_chars": 976,
+    "source_pages": [
+      66,
+      66
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-168",
+    "section": "168",
+    "title_present": true,
+    "text_chars": 155,
+    "source_pages": [
+      66,
+      66
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-169",
+    "section": "169",
+    "title_present": true,
+    "text_chars": 282,
+    "source_pages": [
+      66,
+      66
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-170",
+    "section": "170",
+    "title_present": true,
+    "text_chars": 553,
+    "source_pages": [
+      66,
+      66
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-171",
+    "section": "171",
+    "title_present": true,
+    "text_chars": 246,
+    "source_pages": [
+      66,
+      66
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-172",
+    "section": "172",
+    "title_present": true,
+    "text_chars": 520,
+    "source_pages": [
+      66,
+      66
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-173",
+    "section": "173",
+    "title_present": true,
+    "text_chars": 3587,
+    "source_pages": [
+      66,
+      67
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-174",
+    "section": "174",
+    "title_present": true,
+    "text_chars": 1053,
+    "source_pages": [
+      67,
+      68
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-175",
+    "section": "175",
+    "title_present": true,
+    "text_chars": 1404,
+    "source_pages": [
+      68,
+      68
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-176",
+    "section": "176",
+    "title_present": true,
+    "text_chars": 2809,
+    "source_pages": [
+      68,
+      69
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-177",
+    "section": "177",
+    "title_present": true,
+    "text_chars": 460,
+    "source_pages": [
+      69,
+      69
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-178",
+    "section": "178",
+    "title_present": true,
+    "text_chars": 293,
+    "source_pages": [
+      69,
+      69
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-179",
+    "section": "179",
+    "title_present": true,
+    "text_chars": 978,
+    "source_pages": [
+      69,
+      69
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-180",
+    "section": "180",
+    "title_present": true,
+    "text_chars": 1347,
+    "source_pages": [
+      69,
+      70
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-181",
+    "section": "181",
+    "title_present": true,
+    "text_chars": 1690,
+    "source_pages": [
+      70,
+      70
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-182",
+    "section": "182",
+    "title_present": true,
+    "text_chars": 552,
+    "source_pages": [
+      70,
+      70
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-183",
+    "section": "183",
+    "title_present": true,
+    "text_chars": 4389,
+    "source_pages": [
+      70,
+      71
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-184",
+    "section": "184",
+    "title_present": true,
+    "text_chars": 2305,
+    "source_pages": [
+      71,
+      72
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-185",
+    "section": "185",
+    "title_present": true,
+    "text_chars": 2027,
+    "source_pages": [
+      72,
+      73
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-186",
+    "section": "186",
+    "title_present": true,
+    "text_chars": 1810,
+    "source_pages": [
+      73,
+      73
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-187",
+    "section": "187",
+    "title_present": true,
+    "text_chars": 6669,
+    "source_pages": [
+      73,
+      75
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-188",
+    "section": "188",
+    "title_present": true,
+    "text_chars": 179,
+    "source_pages": [
+      75,
+      75
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-189",
+    "section": "189",
+    "title_present": true,
+    "text_chars": 528,
+    "source_pages": [
+      75,
+      75
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-190",
+    "section": "190",
+    "title_present": true,
+    "text_chars": 2002,
+    "source_pages": [
+      75,
+      75
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-191",
+    "section": "191",
+    "title_present": true,
+    "text_chars": 547,
+    "source_pages": [
+      75,
+      76
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-192",
+    "section": "192",
+    "title_present": true,
+    "text_chars": 1239,
+    "source_pages": [
+      76,
+      76
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-193",
+    "section": "193",
+    "title_present": true,
+    "text_chars": 4627,
+    "source_pages": [
+      76,
+      77
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-194",
+    "section": "194",
+    "title_present": true,
+    "text_chars": 2570,
+    "source_pages": [
+      77,
+      78
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-195",
+    "section": "195",
+    "title_present": true,
+    "text_chars": 1025,
+    "source_pages": [
+      78,
+      78
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-196",
+    "section": "196",
+    "title_present": true,
+    "text_chars": 2206,
+    "source_pages": [
+      78,
+      79
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-197",
+    "section": "197",
+    "title_present": true,
+    "text_chars": 118,
+    "source_pages": [
+      79,
+      79
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-198",
+    "section": "198",
+    "title_present": true,
+    "text_chars": 438,
+    "source_pages": [
+      79,
+      79
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-199",
+    "section": "199",
+    "title_present": true,
+    "text_chars": 248,
+    "source_pages": [
+      79,
+      79
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-200",
+    "section": "200",
+    "title_present": true,
+    "text_chars": 295,
+    "source_pages": [
+      79,
+      79
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-201",
+    "section": "201",
+    "title_present": true,
+    "text_chars": 1463,
+    "source_pages": [
+      79,
+      80
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-202",
+    "section": "202",
+    "title_present": true,
+    "text_chars": 905,
+    "source_pages": [
+      80,
+      80
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-203",
+    "section": "203",
+    "title_present": true,
+    "text_chars": 341,
+    "source_pages": [
+      80,
+      80
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-204",
+    "section": "204",
+    "title_present": true,
+    "text_chars": 476,
+    "source_pages": [
+      80,
+      80
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-205",
+    "section": "205",
+    "title_present": true,
+    "text_chars": 430,
+    "source_pages": [
+      80,
+      80
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-206",
+    "section": "206",
+    "title_present": true,
+    "text_chars": 529,
+    "source_pages": [
+      80,
+      80
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-207",
+    "section": "207",
+    "title_present": true,
+    "text_chars": 1281,
+    "source_pages": [
+      80,
+      81
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-208",
+    "section": "208",
+    "title_present": true,
+    "text_chars": 577,
+    "source_pages": [
+      81,
+      81
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-209",
+    "section": "209",
+    "title_present": true,
+    "text_chars": 711,
+    "source_pages": [
+      81,
+      81
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-210",
+    "section": "210",
+    "title_present": true,
+    "text_chars": 785,
+    "source_pages": [
+      81,
+      81
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-211",
+    "section": "211",
+    "title_present": true,
+    "text_chars": 509,
+    "source_pages": [
+      81,
+      81
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-212",
+    "section": "212",
+    "title_present": true,
+    "text_chars": 518,
+    "source_pages": [
+      81,
+      82
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-213",
+    "section": "213",
+    "title_present": true,
+    "text_chars": 273,
+    "source_pages": [
+      82,
+      82
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-214",
+    "section": "214",
+    "title_present": true,
+    "text_chars": 211,
+    "source_pages": [
+      82,
+      82
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-215",
+    "section": "215",
+    "title_present": true,
+    "text_chars": 1478,
+    "source_pages": [
+      82,
+      82
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-216",
+    "section": "216",
+    "title_present": true,
+    "text_chars": 132,
+    "source_pages": [
+      82,
+      82
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-217",
+    "section": "217",
+    "title_present": true,
+    "text_chars": 1850,
+    "source_pages": [
+      82,
+      83
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-218",
+    "section": "218",
+    "title_present": true,
+    "text_chars": 3313,
+    "source_pages": [
+      83,
+      84
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-219",
+    "section": "219",
+    "title_present": true,
+    "text_chars": 3241,
+    "source_pages": [
+      84,
+      85
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-220",
+    "section": "220",
+    "title_present": true,
+    "text_chars": 432,
+    "source_pages": [
+      85,
+      85
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-221",
+    "section": "221",
+    "title_present": true,
+    "text_chars": 313,
+    "source_pages": [
+      85,
+      85
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-222",
+    "section": "222",
+    "title_present": true,
+    "text_chars": 2497,
+    "source_pages": [
+      85,
+      85
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-223",
+    "section": "223",
+    "title_present": true,
+    "text_chars": 1461,
+    "source_pages": [
+      85,
+      86
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-224",
+    "section": "224",
+    "title_present": true,
+    "text_chars": 310,
+    "source_pages": [
+      86,
+      86
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-225",
+    "section": "225",
+    "title_present": true,
+    "text_chars": 1514,
+    "source_pages": [
+      86,
+      86
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-226",
+    "section": "226",
+    "title_present": true,
+    "text_chars": 413,
+    "source_pages": [
+      86,
+      87
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-227",
+    "section": "227",
+    "title_present": true,
+    "text_chars": 1188,
+    "source_pages": [
+      87,
+      87
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-228",
+    "section": "228",
+    "title_present": true,
+    "text_chars": 415,
+    "source_pages": [
+      87,
+      87
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-229",
+    "section": "229",
+    "title_present": true,
+    "text_chars": 1760,
+    "source_pages": [
+      87,
+      88
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-230",
+    "section": "230",
+    "title_present": true,
+    "text_chars": 1693,
+    "source_pages": [
+      88,
+      88
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-231",
+    "section": "231",
+    "title_present": true,
+    "text_chars": 930,
+    "source_pages": [
+      88,
+      88
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-232",
+    "section": "232",
+    "title_present": true,
+    "text_chars": 1351,
+    "source_pages": [
+      88,
+      89
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-233",
+    "section": "233",
+    "title_present": true,
+    "text_chars": 1213,
+    "source_pages": [
+      89,
+      89
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-234",
+    "section": "234",
+    "title_present": true,
+    "text_chars": 2879,
+    "source_pages": [
+      89,
+      90
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-235",
+    "section": "235",
+    "title_present": true,
+    "text_chars": 920,
+    "source_pages": [
+      90,
+      90
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-236",
+    "section": "236",
+    "title_present": true,
+    "text_chars": 1264,
+    "source_pages": [
+      90,
+      91
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-237",
+    "section": "237",
+    "title_present": true,
+    "text_chars": 180,
+    "source_pages": [
+      91,
+      91
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-238",
+    "section": "238",
+    "title_present": true,
+    "text_chars": 2246,
+    "source_pages": [
+      91,
+      91
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-239",
+    "section": "239",
+    "title_present": true,
+    "text_chars": 1178,
+    "source_pages": [
+      91,
+      92
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-240",
+    "section": "240",
+    "title_present": true,
+    "text_chars": 610,
+    "source_pages": [
+      92,
+      92
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-241",
+    "section": "241",
+    "title_present": true,
+    "text_chars": 715,
+    "source_pages": [
+      92,
+      92
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-242",
+    "section": "242",
+    "title_present": true,
+    "text_chars": 969,
+    "source_pages": [
+      92,
+      92
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-243",
+    "section": "243",
+    "title_present": true,
+    "text_chars": 5349,
+    "source_pages": [
+      92,
+      94
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-244",
+    "section": "244",
+    "title_present": true,
+    "text_chars": 1660,
+    "source_pages": [
+      94,
+      94
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-245",
+    "section": "245",
+    "title_present": true,
+    "text_chars": 1583,
+    "source_pages": [
+      94,
+      95
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-246",
+    "section": "246",
+    "title_present": true,
+    "text_chars": 1936,
+    "source_pages": [
+      95,
+      95
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-247",
+    "section": "247",
+    "title_present": true,
+    "text_chars": 714,
+    "source_pages": [
+      95,
+      96
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-248",
+    "section": "248",
+    "title_present": true,
+    "text_chars": 100,
+    "source_pages": [
+      96,
+      96
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-249",
+    "section": "249",
+    "title_present": true,
+    "text_chars": 332,
+    "source_pages": [
+      96,
+      96
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-250",
+    "section": "250",
+    "title_present": true,
+    "text_chars": 481,
+    "source_pages": [
+      96,
+      96
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-251",
+    "section": "251",
+    "title_present": true,
+    "text_chars": 1154,
+    "source_pages": [
+      96,
+      96
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-252",
+    "section": "252",
+    "title_present": true,
+    "text_chars": 110,
+    "source_pages": [
+      96,
+      96
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-253",
+    "section": "253",
+    "title_present": true,
+    "text_chars": 334,
+    "source_pages": [
+      96,
+      96
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-254",
+    "section": "254",
+    "title_present": true,
+    "text_chars": 544,
+    "source_pages": [
+      96,
+      96
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-255",
+    "section": "255",
+    "title_present": true,
+    "text_chars": 262,
+    "source_pages": [
+      96,
+      96
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-256",
+    "section": "256",
+    "title_present": true,
+    "text_chars": 626,
+    "source_pages": [
+      96,
+      97
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-257",
+    "section": "257",
+    "title_present": true,
+    "text_chars": 360,
+    "source_pages": [
+      97,
+      97
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-258",
+    "section": "258",
+    "title_present": true,
+    "text_chars": 500,
+    "source_pages": [
+      97,
+      97
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-259",
+    "section": "259",
+    "title_present": true,
+    "text_chars": 677,
+    "source_pages": [
+      97,
+      97
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-260",
+    "section": "260",
+    "title_present": true,
+    "text_chars": 2591,
+    "source_pages": [
+      97,
+      98
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-261",
+    "section": "261",
+    "title_present": true,
+    "text_chars": 238,
+    "source_pages": [
+      98,
+      98
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-262",
+    "section": "262",
+    "title_present": true,
+    "text_chars": 613,
+    "source_pages": [
+      98,
+      98
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-263",
+    "section": "263",
+    "title_present": true,
+    "text_chars": 590,
+    "source_pages": [
+      98,
+      98
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-264",
+    "section": "264",
+    "title_present": true,
+    "text_chars": 115,
+    "source_pages": [
+      98,
+      98
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-265",
+    "section": "265",
+    "title_present": true,
+    "text_chars": 1033,
+    "source_pages": [
+      98,
+      99
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-266",
+    "section": "266",
+    "title_present": true,
+    "text_chars": 1447,
+    "source_pages": [
+      99,
+      99
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-267",
+    "section": "267",
+    "title_present": true,
+    "text_chars": 430,
+    "source_pages": [
+      99,
+      99
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-268",
+    "section": "268",
+    "title_present": true,
+    "text_chars": 481,
+    "source_pages": [
+      99,
+      99
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-269",
+    "section": "269",
+    "title_present": true,
+    "text_chars": 1881,
+    "source_pages": [
+      99,
+      100
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-270",
+    "section": "270",
+    "title_present": true,
+    "text_chars": 171,
+    "source_pages": [
+      100,
+      100
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-271",
+    "section": "271",
+    "title_present": true,
+    "text_chars": 1104,
+    "source_pages": [
+      100,
+      100
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-272",
+    "section": "272",
+    "title_present": true,
+    "text_chars": 432,
+    "source_pages": [
+      100,
+      100
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-273",
+    "section": "273",
+    "title_present": true,
+    "text_chars": 3009,
+    "source_pages": [
+      100,
+      101
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-274",
+    "section": "274",
+    "title_present": true,
+    "text_chars": 479,
+    "source_pages": [
+      101,
+      101
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-275",
+    "section": "275",
+    "title_present": true,
+    "text_chars": 170,
+    "source_pages": [
+      101,
+      101
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-276",
+    "section": "276",
+    "title_present": true,
+    "text_chars": 820,
+    "source_pages": [
+      101,
+      101
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-277",
+    "section": "277",
+    "title_present": true,
+    "text_chars": 697,
+    "source_pages": [
+      101,
+      102
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-278",
+    "section": "278",
+    "title_present": true,
+    "text_chars": 746,
+    "source_pages": [
+      102,
+      102
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-279",
+    "section": "279",
+    "title_present": true,
+    "text_chars": 904,
+    "source_pages": [
+      102,
+      102
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-280",
+    "section": "280",
+    "title_present": true,
+    "text_chars": 418,
+    "source_pages": [
+      102,
+      102
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-281",
+    "section": "281",
+    "title_present": true,
+    "text_chars": 540,
+    "source_pages": [
+      102,
+      102
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-282",
+    "section": "282",
+    "title_present": true,
+    "text_chars": 490,
+    "source_pages": [
+      102,
+      102
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-283",
+    "section": "283",
+    "title_present": true,
+    "text_chars": 2060,
+    "source_pages": [
+      102,
+      103
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-284",
+    "section": "284",
+    "title_present": true,
+    "text_chars": 311,
+    "source_pages": [
+      103,
+      103
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-285",
+    "section": "285",
+    "title_present": true,
+    "text_chars": 286,
+    "source_pages": [
+      103,
+      103
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-286",
+    "section": "286",
+    "title_present": true,
+    "text_chars": 764,
+    "source_pages": [
+      103,
+      103
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-287",
+    "section": "287",
+    "title_present": true,
+    "text_chars": 207,
+    "source_pages": [
+      103,
+      104
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-288",
+    "section": "288",
+    "title_present": true,
+    "text_chars": 405,
+    "source_pages": [
+      104,
+      104
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-289",
+    "section": "289",
+    "title_present": true,
+    "text_chars": 1183,
+    "source_pages": [
+      104,
+      104
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-290",
+    "section": "290",
+    "title_present": true,
+    "text_chars": 2026,
+    "source_pages": [
+      104,
+      105
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-291",
+    "section": "291",
+    "title_present": true,
+    "text_chars": 1370,
+    "source_pages": [
+      105,
+      105
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-292",
+    "section": "292",
+    "title_present": true,
+    "text_chars": 519,
+    "source_pages": [
+      105,
+      105
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-293",
+    "section": "293",
+    "title_present": true,
+    "text_chars": 1870,
+    "source_pages": [
+      105,
+      106
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-294",
+    "section": "294",
+    "title_present": true,
+    "text_chars": 146,
+    "source_pages": [
+      106,
+      106
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-295",
+    "section": "295",
+    "title_present": true,
+    "text_chars": 248,
+    "source_pages": [
+      106,
+      106
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-296",
+    "section": "296",
+    "title_present": true,
+    "text_chars": 232,
+    "source_pages": [
+      106,
+      106
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-297",
+    "section": "297",
+    "title_present": true,
+    "text_chars": 276,
+    "source_pages": [
+      106,
+      106
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-298",
+    "section": "298",
+    "title_present": true,
+    "text_chars": 477,
+    "source_pages": [
+      106,
+      106
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-299",
+    "section": "299",
+    "title_present": true,
+    "text_chars": 261,
+    "source_pages": [
+      106,
+      106
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-300",
+    "section": "300",
+    "title_present": true,
+    "text_chars": 232,
+    "source_pages": [
+      106,
+      106
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-301",
+    "section": "301",
+    "title_present": true,
+    "text_chars": 322,
+    "source_pages": [
+      106,
+      106
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-302",
+    "section": "302",
+    "title_present": true,
+    "text_chars": 1170,
+    "source_pages": [
+      106,
+      107
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-303",
+    "section": "303",
+    "title_present": true,
+    "text_chars": 1078,
+    "source_pages": [
+      107,
+      107
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-304",
+    "section": "304",
+    "title_present": true,
+    "text_chars": 984,
+    "source_pages": [
+      107,
+      107
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-305",
+    "section": "305",
+    "title_present": true,
+    "text_chars": 578,
+    "source_pages": [
+      107,
+      108
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-306",
+    "section": "306",
+    "title_present": true,
+    "text_chars": 508,
+    "source_pages": [
+      108,
+      108
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-307",
+    "section": "307",
+    "title_present": true,
+    "text_chars": 150,
+    "source_pages": [
+      108,
+      108
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-308",
+    "section": "308",
+    "title_present": true,
+    "text_chars": 844,
+    "source_pages": [
+      108,
+      108
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-309",
+    "section": "309",
+    "title_present": true,
+    "text_chars": 643,
+    "source_pages": [
+      108,
+      108
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-310",
+    "section": "310",
+    "title_present": true,
+    "text_chars": 1077,
+    "source_pages": [
+      108,
+      109
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-311",
+    "section": "311",
+    "title_present": true,
+    "text_chars": 642,
+    "source_pages": [
+      109,
+      109
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-312",
+    "section": "312",
+    "title_present": true,
+    "text_chars": 1022,
+    "source_pages": [
+      109,
+      109
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-313",
+    "section": "313",
+    "title_present": true,
+    "text_chars": 822,
+    "source_pages": [
+      109,
+      109
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-314",
+    "section": "314",
+    "title_present": true,
+    "text_chars": 555,
+    "source_pages": [
+      109,
+      110
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-315",
+    "section": "315",
+    "title_present": true,
+    "text_chars": 208,
+    "source_pages": [
+      110,
+      110
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-316",
+    "section": "316",
+    "title_present": true,
+    "text_chars": 1396,
+    "source_pages": [
+      110,
+      110
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-317",
+    "section": "317",
+    "title_present": true,
+    "text_chars": 206,
+    "source_pages": [
+      110,
+      110
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-318",
+    "section": "318",
+    "title_present": true,
+    "text_chars": 308,
+    "source_pages": [
+      110,
+      110
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-319",
+    "section": "319",
+    "title_present": true,
+    "text_chars": 1072,
+    "source_pages": [
+      110,
+      111
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-320",
+    "section": "320",
+    "title_present": true,
+    "text_chars": 858,
+    "source_pages": [
+      111,
+      111
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-321",
+    "section": "321",
+    "title_present": true,
+    "text_chars": 351,
+    "source_pages": [
+      111,
+      111
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-322",
+    "section": "322",
+    "title_present": true,
+    "text_chars": 610,
+    "source_pages": [
+      111,
+      111
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-323",
+    "section": "323",
+    "title_present": true,
+    "text_chars": 681,
+    "source_pages": [
+      111,
+      111
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-324",
+    "section": "324",
+    "title_present": true,
+    "text_chars": 211,
+    "source_pages": [
+      111,
+      111
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-325",
+    "section": "325",
+    "title_present": true,
+    "text_chars": 907,
+    "source_pages": [
+      111,
+      111
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-326",
+    "section": "326",
+    "title_present": true,
+    "text_chars": 493,
+    "source_pages": [
+      111,
+      112
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-327",
+    "section": "327",
+    "title_present": true,
+    "text_chars": 795,
+    "source_pages": [
+      112,
+      112
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-328",
+    "section": "328",
+    "title_present": true,
+    "text_chars": 1684,
+    "source_pages": [
+      112,
+      112
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-329",
+    "section": "329",
+    "title_present": true,
+    "text_chars": 1403,
+    "source_pages": [
+      112,
+      113
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-330",
+    "section": "330",
+    "title_present": true,
+    "text_chars": 1098,
+    "source_pages": [
+      113,
+      113
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-331",
+    "section": "331",
+    "title_present": true,
+    "text_chars": 361,
+    "source_pages": [
+      113,
+      113
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-332",
+    "section": "332",
+    "title_present": true,
+    "text_chars": 400,
+    "source_pages": [
+      113,
+      113
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-333",
+    "section": "333",
+    "title_present": true,
+    "text_chars": 686,
+    "source_pages": [
+      113,
+      113
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-334",
+    "section": "334",
+    "title_present": true,
+    "text_chars": 760,
+    "source_pages": [
+      113,
+      114
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-335",
+    "section": "335",
+    "title_present": true,
+    "text_chars": 1241,
+    "source_pages": [
+      114,
+      114
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-336",
+    "section": "336",
+    "title_present": true,
+    "text_chars": 1189,
+    "source_pages": [
+      114,
+      114
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-337",
+    "section": "337",
+    "title_present": true,
+    "text_chars": 3182,
+    "source_pages": [
+      114,
+      115
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-338",
+    "section": "338",
+    "title_present": true,
+    "text_chars": 645,
+    "source_pages": [
+      115,
+      115
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-339",
+    "section": "339",
+    "title_present": true,
+    "text_chars": 615,
+    "source_pages": [
+      115,
+      116
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-340",
+    "section": "340",
+    "title_present": true,
+    "text_chars": 175,
+    "source_pages": [
+      116,
+      116
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-341",
+    "section": "341",
+    "title_present": true,
+    "text_chars": 939,
+    "source_pages": [
+      116,
+      116
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-342",
+    "section": "342",
+    "title_present": true,
+    "text_chars": 1780,
+    "source_pages": [
+      116,
+      117
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-343",
+    "section": "343",
+    "title_present": true,
+    "text_chars": 2205,
+    "source_pages": [
+      117,
+      117
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-344",
+    "section": "344",
+    "title_present": true,
+    "text_chars": 326,
+    "source_pages": [
+      117,
+      117
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-345",
+    "section": "345",
+    "title_present": true,
+    "text_chars": 2017,
+    "source_pages": [
+      117,
+      118
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-346",
+    "section": "346",
+    "title_present": true,
+    "text_chars": 2737,
+    "source_pages": [
+      118,
+      119
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-347",
+    "section": "347",
+    "title_present": true,
+    "text_chars": 678,
+    "source_pages": [
+      119,
+      119
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-348",
+    "section": "348",
+    "title_present": true,
+    "text_chars": 410,
+    "source_pages": [
+      119,
+      119
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-349",
+    "section": "349",
+    "title_present": true,
+    "text_chars": 859,
+    "source_pages": [
+      119,
+      119
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-350",
+    "section": "350",
+    "title_present": true,
+    "text_chars": 302,
+    "source_pages": [
+      119,
+      119
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-351",
+    "section": "351",
+    "title_present": true,
+    "text_chars": 1313,
+    "source_pages": [
+      119,
+      120
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-352",
+    "section": "352",
+    "title_present": true,
+    "text_chars": 776,
+    "source_pages": [
+      120,
+      120
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-353",
+    "section": "353",
+    "title_present": true,
+    "text_chars": 1153,
+    "source_pages": [
+      120,
+      120
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-354",
+    "section": "354",
+    "title_present": true,
+    "text_chars": 211,
+    "source_pages": [
+      120,
+      120
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-355",
+    "section": "355",
+    "title_present": true,
+    "text_chars": 1023,
+    "source_pages": [
+      120,
+      121
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-356",
+    "section": "356",
+    "title_present": true,
+    "text_chars": 3255,
+    "source_pages": [
+      121,
+      122
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-357",
+    "section": "357",
+    "title_present": true,
+    "text_chars": 412,
+    "source_pages": [
+      122,
+      122
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-358",
+    "section": "358",
+    "title_present": true,
+    "text_chars": 1070,
+    "source_pages": [
+      122,
+      122
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-359",
+    "section": "359",
+    "title_present": true,
+    "text_chars": 8093,
+    "source_pages": [
+      122,
+      126
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-360",
+    "section": "360",
+    "title_present": true,
+    "text_chars": 1589,
+    "source_pages": [
+      126,
+      127
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-361",
+    "section": "361",
+    "title_present": true,
+    "text_chars": 835,
+    "source_pages": [
+      127,
+      127
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-362",
+    "section": "362",
+    "title_present": true,
+    "text_chars": 374,
+    "source_pages": [
+      127,
+      127
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-363",
+    "section": "363",
+    "title_present": true,
+    "text_chars": 1064,
+    "source_pages": [
+      127,
+      128
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-364",
+    "section": "364",
+    "title_present": true,
+    "text_chars": 1176,
+    "source_pages": [
+      128,
+      128
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-365",
+    "section": "365",
+    "title_present": true,
+    "text_chars": 1302,
+    "source_pages": [
+      128,
+      128
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-366",
+    "section": "366",
+    "title_present": true,
+    "text_chars": 1720,
+    "source_pages": [
+      128,
+      129
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-367",
+    "section": "367",
+    "title_present": true,
+    "text_chars": 2950,
+    "source_pages": [
+      129,
+      129
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-368",
+    "section": "368",
+    "title_present": true,
+    "text_chars": 2617,
+    "source_pages": [
+      129,
+      130
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-369",
+    "section": "369",
+    "title_present": true,
+    "text_chars": 2307,
+    "source_pages": [
+      130,
+      131
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-370",
+    "section": "370",
+    "title_present": true,
+    "text_chars": 603,
+    "source_pages": [
+      131,
+      131
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-371",
+    "section": "371",
+    "title_present": true,
+    "text_chars": 599,
+    "source_pages": [
+      131,
+      131
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-372",
+    "section": "372",
+    "title_present": true,
+    "text_chars": 608,
+    "source_pages": [
+      131,
+      131
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-373",
+    "section": "373",
+    "title_present": true,
+    "text_chars": 356,
+    "source_pages": [
+      131,
+      131
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-374",
+    "section": "374",
+    "title_present": true,
+    "text_chars": 1312,
+    "source_pages": [
+      131,
+      132
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-375",
+    "section": "375",
+    "title_present": true,
+    "text_chars": 258,
+    "source_pages": [
+      132,
+      132
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-376",
+    "section": "376",
+    "title_present": true,
+    "text_chars": 743,
+    "source_pages": [
+      132,
+      132
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-377",
+    "section": "377",
+    "title_present": true,
+    "text_chars": 869,
+    "source_pages": [
+      132,
+      132
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-378",
+    "section": "378",
+    "title_present": true,
+    "text_chars": 1525,
+    "source_pages": [
+      132,
+      133
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-379",
+    "section": "379",
+    "title_present": true,
+    "text_chars": 1739,
+    "source_pages": [
+      133,
+      133
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-380",
+    "section": "380",
+    "title_present": true,
+    "text_chars": 799,
+    "source_pages": [
+      133,
+      133
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-381",
+    "section": "381",
+    "title_present": true,
+    "text_chars": 186,
+    "source_pages": [
+      133,
+      133
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-382",
+    "section": "382",
+    "title_present": true,
+    "text_chars": 581,
+    "source_pages": [
+      133,
+      134
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-383",
+    "section": "383",
+    "title_present": true,
+    "text_chars": 1790,
+    "source_pages": [
+      134,
+      134
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-384",
+    "section": "384",
+    "title_present": true,
+    "text_chars": 1156,
+    "source_pages": [
+      134,
+      134
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-385",
+    "section": "385",
+    "title_present": true,
+    "text_chars": 945,
+    "source_pages": [
+      134,
+      135
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-386",
+    "section": "386",
+    "title_present": true,
+    "text_chars": 211,
+    "source_pages": [
+      135,
+      135
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-387",
+    "section": "387",
+    "title_present": true,
+    "text_chars": 450,
+    "source_pages": [
+      135,
+      135
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-388",
+    "section": "388",
+    "title_present": true,
+    "text_chars": 857,
+    "source_pages": [
+      135,
+      135
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-389",
+    "section": "389",
+    "title_present": true,
+    "text_chars": 831,
+    "source_pages": [
+      135,
+      135
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-390",
+    "section": "390",
+    "title_present": true,
+    "text_chars": 926,
+    "source_pages": [
+      135,
+      135
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-391",
+    "section": "391",
+    "title_present": true,
+    "text_chars": 403,
+    "source_pages": [
+      135,
+      135
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-392",
+    "section": "392",
+    "title_present": true,
+    "text_chars": 2703,
+    "source_pages": [
+      135,
+      136
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-393",
+    "section": "393",
+    "title_present": true,
+    "text_chars": 1959,
+    "source_pages": [
+      136,
+      137
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-394",
+    "section": "394",
+    "title_present": true,
+    "text_chars": 1513,
+    "source_pages": [
+      137,
+      137
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-395",
+    "section": "395",
+    "title_present": true,
+    "text_chars": 2209,
+    "source_pages": [
+      137,
+      138
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-396",
+    "section": "396",
+    "title_present": true,
+    "text_chars": 1989,
+    "source_pages": [
+      138,
+      138
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-397",
+    "section": "397",
+    "title_present": true,
+    "text_chars": 592,
+    "source_pages": [
+      138,
+      139
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-398",
+    "section": "398",
+    "title_present": true,
+    "text_chars": 140,
+    "source_pages": [
+      139,
+      139
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-399",
+    "section": "399",
+    "title_present": true,
+    "text_chars": 921,
+    "source_pages": [
+      139,
+      139
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-400",
+    "section": "400",
+    "title_present": true,
+    "text_chars": 702,
+    "source_pages": [
+      139,
+      139
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-401",
+    "section": "401",
+    "title_present": true,
+    "text_chars": 4633,
+    "source_pages": [
+      139,
+      140
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-402",
+    "section": "402",
+    "title_present": true,
+    "text_chars": 491,
+    "source_pages": [
+      140,
+      140
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-403",
+    "section": "403",
+    "title_present": true,
+    "text_chars": 252,
+    "source_pages": [
+      140,
+      140
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-404",
+    "section": "404",
+    "title_present": true,
+    "text_chars": 1979,
+    "source_pages": [
+      140,
+      141
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-405",
+    "section": "405",
+    "title_present": true,
+    "text_chars": 271,
+    "source_pages": [
+      141,
+      141
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-406",
+    "section": "406",
+    "title_present": true,
+    "text_chars": 323,
+    "source_pages": [
+      141,
+      141
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-407",
+    "section": "407",
+    "title_present": true,
+    "text_chars": 304,
+    "source_pages": [
+      141,
+      141
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-408",
+    "section": "408",
+    "title_present": true,
+    "text_chars": 642,
+    "source_pages": [
+      141,
+      141
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-409",
+    "section": "409",
+    "title_present": true,
+    "text_chars": 571,
+    "source_pages": [
+      141,
+      142
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-410",
+    "section": "410",
+    "title_present": true,
+    "text_chars": 223,
+    "source_pages": [
+      142,
+      142
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-411",
+    "section": "411",
+    "title_present": true,
+    "text_chars": 166,
+    "source_pages": [
+      142,
+      142
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-412",
+    "section": "412",
+    "title_present": true,
+    "text_chars": 441,
+    "source_pages": [
+      142,
+      142
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-413",
+    "section": "413",
+    "title_present": true,
+    "text_chars": 472,
+    "source_pages": [
+      142,
+      142
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-414",
+    "section": "414",
+    "title_present": true,
+    "text_chars": 482,
+    "source_pages": [
+      142,
+      142
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-415",
+    "section": "415",
+    "title_present": true,
+    "text_chars": 1083,
+    "source_pages": [
+      142,
+      143
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-416",
+    "section": "416",
+    "title_present": true,
+    "text_chars": 337,
+    "source_pages": [
+      143,
+      143
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-417",
+    "section": "417",
+    "title_present": true,
+    "text_chars": 1296,
+    "source_pages": [
+      143,
+      143
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-418",
+    "section": "418",
+    "title_present": true,
+    "text_chars": 1553,
+    "source_pages": [
+      143,
+      144
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-419",
+    "section": "419",
+    "title_present": true,
+    "text_chars": 2303,
+    "source_pages": [
+      144,
+      144
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-420",
+    "section": "420",
+    "title_present": true,
+    "text_chars": 249,
+    "source_pages": [
+      144,
+      144
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-421",
+    "section": "421",
+    "title_present": true,
+    "text_chars": 263,
+    "source_pages": [
+      144,
+      144
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-422",
+    "section": "422",
+    "title_present": true,
+    "text_chars": 582,
+    "source_pages": [
+      144,
+      145
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-423",
+    "section": "423",
+    "title_present": true,
+    "text_chars": 267,
+    "source_pages": [
+      145,
+      145
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-424",
+    "section": "424",
+    "title_present": true,
+    "text_chars": 225,
+    "source_pages": [
+      145,
+      145
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-425",
+    "section": "425",
+    "title_present": true,
+    "text_chars": 1659,
+    "source_pages": [
+      145,
+      145
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-426",
+    "section": "426",
+    "title_present": true,
+    "text_chars": 1054,
+    "source_pages": [
+      145,
+      145
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-427",
+    "section": "427",
+    "title_present": true,
+    "text_chars": 1964,
+    "source_pages": [
+      145,
+      146
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-428",
+    "section": "428",
+    "title_present": true,
+    "text_chars": 369,
+    "source_pages": [
+      146,
+      146
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-429",
+    "section": "429",
+    "title_present": true,
+    "text_chars": 764,
+    "source_pages": [
+      146,
+      146
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-430",
+    "section": "430",
+    "title_present": true,
+    "text_chars": 1892,
+    "source_pages": [
+      146,
+      147
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-431",
+    "section": "431",
+    "title_present": true,
+    "text_chars": 291,
+    "source_pages": [
+      147,
+      147
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-432",
+    "section": "432",
+    "title_present": true,
+    "text_chars": 754,
+    "source_pages": [
+      147,
+      147
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-433",
+    "section": "433",
+    "title_present": true,
+    "text_chars": 556,
+    "source_pages": [
+      147,
+      148
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-434",
+    "section": "434",
+    "title_present": true,
+    "text_chars": 525,
+    "source_pages": [
+      148,
+      148
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-435",
+    "section": "435",
+    "title_present": true,
+    "text_chars": 732,
+    "source_pages": [
+      148,
+      148
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-436",
+    "section": "436",
+    "title_present": true,
+    "text_chars": 1234,
+    "source_pages": [
+      148,
+      148
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-437",
+    "section": "437",
+    "title_present": true,
+    "text_chars": 342,
+    "source_pages": [
+      148,
+      148
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-438",
+    "section": "438",
+    "title_present": true,
+    "text_chars": 1233,
+    "source_pages": [
+      148,
+      149
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-439",
+    "section": "439",
+    "title_present": true,
+    "text_chars": 718,
+    "source_pages": [
+      149,
+      149
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-440",
+    "section": "440",
+    "title_present": true,
+    "text_chars": 881,
+    "source_pages": [
+      149,
+      149
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-441",
+    "section": "441",
+    "title_present": true,
+    "text_chars": 229,
+    "source_pages": [
+      149,
+      149
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-442",
+    "section": "442",
+    "title_present": true,
+    "text_chars": 1370,
+    "source_pages": [
+      149,
+      150
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-443",
+    "section": "443",
+    "title_present": true,
+    "text_chars": 1505,
+    "source_pages": [
+      150,
+      150
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-444",
+    "section": "444",
+    "title_present": true,
+    "text_chars": 294,
+    "source_pages": [
+      150,
+      150
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-445",
+    "section": "445",
+    "title_present": true,
+    "text_chars": 507,
+    "source_pages": [
+      150,
+      150
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-446",
+    "section": "446",
+    "title_present": true,
+    "text_chars": 1080,
+    "source_pages": [
+      150,
+      150
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-447",
+    "section": "447",
+    "title_present": true,
+    "text_chars": 3296,
+    "source_pages": [
+      150,
+      151
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-448",
+    "section": "448",
+    "title_present": true,
+    "text_chars": 867,
+    "source_pages": [
+      151,
+      152
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-449",
+    "section": "449",
+    "title_present": true,
+    "text_chars": 695,
+    "source_pages": [
+      152,
+      152
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-450",
+    "section": "450",
+    "title_present": true,
+    "text_chars": 469,
+    "source_pages": [
+      152,
+      152
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-451",
+    "section": "451",
+    "title_present": true,
+    "text_chars": 372,
+    "source_pages": [
+      152,
+      152
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-452",
+    "section": "452",
+    "title_present": true,
+    "text_chars": 240,
+    "source_pages": [
+      152,
+      152
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-453",
+    "section": "453",
+    "title_present": true,
+    "text_chars": 306,
+    "source_pages": [
+      152,
+      152
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-454",
+    "section": "454",
+    "title_present": true,
+    "text_chars": 215,
+    "source_pages": [
+      152,
+      152
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-455",
+    "section": "455",
+    "title_present": true,
+    "text_chars": 1390,
+    "source_pages": [
+      152,
+      153
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-456",
+    "section": "456",
+    "title_present": true,
+    "text_chars": 138,
+    "source_pages": [
+      153,
+      153
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-457",
+    "section": "457",
+    "title_present": true,
+    "text_chars": 1059,
+    "source_pages": [
+      153,
+      153
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-458",
+    "section": "458",
+    "title_present": true,
+    "text_chars": 980,
+    "source_pages": [
+      153,
+      153
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-459",
+    "section": "459",
+    "title_present": true,
+    "text_chars": 180,
+    "source_pages": [
+      153,
+      154
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-460",
+    "section": "460",
+    "title_present": true,
+    "text_chars": 108,
+    "source_pages": [
+      154,
+      154
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-461",
+    "section": "461",
+    "title_present": true,
+    "text_chars": 1624,
+    "source_pages": [
+      154,
+      154
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-462",
+    "section": "462",
+    "title_present": true,
+    "text_chars": 339,
+    "source_pages": [
+      154,
+      154
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-463",
+    "section": "463",
+    "title_present": true,
+    "text_chars": 709,
+    "source_pages": [
+      154,
+      154
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-464",
+    "section": "464",
+    "title_present": true,
+    "text_chars": 1593,
+    "source_pages": [
+      154,
+      155
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-465",
+    "section": "465",
+    "title_present": true,
+    "text_chars": 149,
+    "source_pages": [
+      155,
+      155
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-466",
+    "section": "466",
+    "title_present": true,
+    "text_chars": 915,
+    "source_pages": [
+      155,
+      155
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-467",
+    "section": "467",
+    "title_present": true,
+    "text_chars": 934,
+    "source_pages": [
+      155,
+      155
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-468",
+    "section": "468",
+    "title_present": true,
+    "text_chars": 700,
+    "source_pages": [
+      155,
+      156
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-469",
+    "section": "469",
+    "title_present": true,
+    "text_chars": 601,
+    "source_pages": [
+      156,
+      156
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-470",
+    "section": "470",
+    "title_present": true,
+    "text_chars": 226,
+    "source_pages": [
+      156,
+      156
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-471",
+    "section": "471",
+    "title_present": true,
+    "text_chars": 581,
+    "source_pages": [
+      156,
+      156
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-472",
+    "section": "472",
+    "title_present": true,
+    "text_chars": 2587,
+    "source_pages": [
+      156,
+      157
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-473",
+    "section": "473",
+    "title_present": true,
+    "text_chars": 2825,
+    "source_pages": [
+      157,
+      157
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-474",
+    "section": "474",
+    "title_present": true,
+    "text_chars": 538,
+    "source_pages": [
+      157,
+      157
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-475",
+    "section": "475",
+    "title_present": true,
+    "text_chars": 431,
+    "source_pages": [
+      157,
+      158
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-476",
+    "section": "476",
+    "title_present": true,
+    "text_chars": 155,
+    "source_pages": [
+      158,
+      158
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-477",
+    "section": "477",
+    "title_present": true,
+    "text_chars": 1340,
+    "source_pages": [
+      158,
+      158
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-478",
+    "section": "478",
+    "title_present": true,
+    "text_chars": 1504,
+    "source_pages": [
+      158,
+      159
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-479",
+    "section": "479",
+    "title_present": true,
+    "text_chars": 1984,
+    "source_pages": [
+      159,
+      159
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-480",
+    "section": "480",
+    "title_present": true,
+    "text_chars": 4652,
+    "source_pages": [
+      159,
+      160
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-481",
+    "section": "481",
+    "title_present": true,
+    "text_chars": 519,
+    "source_pages": [
+      160,
+      161
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-482",
+    "section": "482",
+    "title_present": true,
+    "text_chars": 1874,
+    "source_pages": [
+      161,
+      161
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-483",
+    "section": "483",
+    "title_present": true,
+    "text_chars": 1618,
+    "source_pages": [
+      161,
+      161
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-484",
+    "section": "484",
+    "title_present": true,
+    "text_chars": 271,
+    "source_pages": [
+      161,
+      162
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-485",
+    "section": "485",
+    "title_present": true,
+    "text_chars": 1172,
+    "source_pages": [
+      162,
+      162
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-486",
+    "section": "486",
+    "title_present": true,
+    "text_chars": 241,
+    "source_pages": [
+      162,
+      162
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-487",
+    "section": "487",
+    "title_present": true,
+    "text_chars": 535,
+    "source_pages": [
+      162,
+      162
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-488",
+    "section": "488",
+    "title_present": true,
+    "text_chars": 330,
+    "source_pages": [
+      162,
+      162
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-489",
+    "section": "489",
+    "title_present": true,
+    "text_chars": 667,
+    "source_pages": [
+      162,
+      162
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-490",
+    "section": "490",
+    "title_present": true,
+    "text_chars": 307,
+    "source_pages": [
+      162,
+      162
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-491",
+    "section": "491",
+    "title_present": true,
+    "text_chars": 2291,
+    "source_pages": [
+      162,
+      163
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-492",
+    "section": "492",
+    "title_present": true,
+    "text_chars": 921,
+    "source_pages": [
+      163,
+      163
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-493",
+    "section": "493",
+    "title_present": true,
+    "text_chars": 511,
+    "source_pages": [
+      163,
+      164
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-494",
+    "section": "494",
+    "title_present": true,
+    "text_chars": 176,
+    "source_pages": [
+      164,
+      164
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-495",
+    "section": "495",
+    "title_present": true,
+    "text_chars": 258,
+    "source_pages": [
+      164,
+      164
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-496",
+    "section": "496",
+    "title_present": true,
+    "text_chars": 197,
+    "source_pages": [
+      164,
+      164
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-497",
+    "section": "497",
+    "title_present": true,
+    "text_chars": 1892,
+    "source_pages": [
+      164,
+      164
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-498",
+    "section": "498",
+    "title_present": true,
+    "text_chars": 1835,
+    "source_pages": [
+      164,
+      165
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-499",
+    "section": "499",
+    "title_present": true,
+    "text_chars": 647,
+    "source_pages": [
+      165,
+      165
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-500",
+    "section": "500",
+    "title_present": true,
+    "text_chars": 600,
+    "source_pages": [
+      165,
+      165
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-501",
+    "section": "501",
+    "title_present": true,
+    "text_chars": 610,
+    "source_pages": [
+      165,
+      165
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-502",
+    "section": "502",
+    "title_present": true,
+    "text_chars": 1151,
+    "source_pages": [
+      165,
+      166
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-503",
+    "section": "503",
+    "title_present": true,
+    "text_chars": 958,
+    "source_pages": [
+      166,
+      166
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-504",
+    "section": "504",
+    "title_present": true,
+    "text_chars": 572,
+    "source_pages": [
+      166,
+      166
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-505",
+    "section": "505",
+    "title_present": true,
+    "text_chars": 537,
+    "source_pages": [
+      166,
+      166
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-506",
+    "section": "506",
+    "title_present": true,
+    "text_chars": 874,
+    "source_pages": [
+      166,
+      166
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-507",
+    "section": "507",
+    "title_present": true,
+    "text_chars": 1066,
+    "source_pages": [
+      166,
+      167
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-508",
+    "section": "508",
+    "title_present": true,
+    "text_chars": 352,
+    "source_pages": [
+      167,
+      167
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-509",
+    "section": "509",
+    "title_present": true,
+    "text_chars": 741,
+    "source_pages": [
+      167,
+      167
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-510",
+    "section": "510",
+    "title_present": true,
+    "text_chars": 1039,
+    "source_pages": [
+      167,
+      168
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-511",
+    "section": "511",
+    "title_present": true,
+    "text_chars": 925,
+    "source_pages": [
+      168,
+      168
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-512",
+    "section": "512",
+    "title_present": true,
+    "text_chars": 320,
+    "source_pages": [
+      168,
+      168
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-513",
+    "section": "513",
+    "title_present": true,
+    "text_chars": 174,
+    "source_pages": [
+      168,
+      168
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-514",
+    "section": "514",
+    "title_present": true,
+    "text_chars": 977,
+    "source_pages": [
+      168,
+      168
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-515",
+    "section": "515",
+    "title_present": true,
+    "text_chars": 702,
+    "source_pages": [
+      168,
+      168
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-516",
+    "section": "516",
+    "title_present": true,
+    "text_chars": 1817,
+    "source_pages": [
+      168,
+      169
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-517",
+    "section": "517",
+    "title_present": true,
+    "text_chars": 307,
+    "source_pages": [
+      169,
+      169
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-518",
+    "section": "518",
+    "title_present": true,
+    "text_chars": 148,
+    "source_pages": [
+      169,
+      169
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-519",
+    "section": "519",
+    "title_present": true,
+    "text_chars": 371,
+    "source_pages": [
+      169,
+      169
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-520",
+    "section": "520",
+    "title_present": true,
+    "text_chars": 207,
+    "source_pages": [
+      169,
+      169
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-521",
+    "section": "521",
+    "title_present": true,
+    "text_chars": 1783,
+    "source_pages": [
+      169,
+      170
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-522",
+    "section": "522",
+    "title_present": true,
+    "text_chars": 266,
+    "source_pages": [
+      170,
+      170
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-523",
+    "section": "523",
+    "title_present": true,
+    "text_chars": 698,
+    "source_pages": [
+      170,
+      170
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-524",
+    "section": "524",
+    "title_present": true,
+    "text_chars": 316,
+    "source_pages": [
+      170,
+      170
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-525",
+    "section": "525",
+    "title_present": true,
+    "text_chars": 729,
+    "source_pages": [
+      170,
+      171
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-526",
+    "section": "526",
+    "title_present": true,
+    "text_chars": 157,
+    "source_pages": [
+      171,
+      171
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-527",
+    "section": "527",
+    "title_present": true,
+    "text_chars": 150,
+    "source_pages": [
+      171,
+      171
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-528",
+    "section": "528",
+    "title_present": true,
+    "text_chars": 276,
+    "source_pages": [
+      171,
+      171
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-529",
+    "section": "529",
+    "title_present": true,
+    "text_chars": 237,
+    "source_pages": [
+      171,
+      171
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-530",
+    "section": "530",
+    "title_present": true,
+    "text_chars": 394,
+    "source_pages": [
+      171,
+      171
+    ],
+    "status": "active"
+  },
+  {
+    "id": "BNSS-SEC-531",
+    "section": "531",
+    "title_present": true,
+    "text_chars": 1860,
+    "source_pages": [
+      171,
+      172
+    ],
+    "status": "active"
+  }
+]
